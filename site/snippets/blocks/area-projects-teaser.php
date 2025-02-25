@@ -1,0 +1,1 @@
+<?php snippet('elements/area-projects-teaser') ?>

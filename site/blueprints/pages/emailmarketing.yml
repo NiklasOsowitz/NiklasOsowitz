@@ -1,0 +1,37 @@
+title: Email Marketing
+
+tabs:
+  contentemail:
+    label: Content
+    icon: layers
+    columns:
+      left:
+        width: 1/1
+        sections:
+          content:
+            type: fields
+            fields:
+                email:
+                  label: Content (Raw Inline code here)
+                  type: textarea
+                  counter: true
+                  size: huge
+                  font: monospace
+                  buttons: false
+                  spellcheck: false
+              lineA:
+                type: line
+  filesemail:
+    label: Files (Email)
+    icon: images
+    columns:
+      left:
+        width: 1/2
+        sections:
+          files:
+            label: Files
+            type: files
+            layout: cards
+            cover: true
+            extension: png, jpg, gif,
+  seo: seo/page

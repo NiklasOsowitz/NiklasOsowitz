@@ -1,0 +1,96 @@
+Title: About
+
+----
+
+Profile: [{"attrs":{"class":"area-standard tile-d","grid":"","spacer":"spacer-b","padding":""},"columns":[{"blocks":[{"content":{"text":"<p>My craft isn't about designing elements;</p>","class":"headline-2","spacer":"spacer-a"},"id":"5738cf16-22e9-4fab-bc66-dc7457c2cad9","isHidden":false,"type":"text"}],"id":"1eafd833-3fd3-4235-8ab9-f9e17d4060cd","width":"1/1"}],"id":"3007c14b-55a2-435d-a7a8-42509e9de769"},{"attrs":{"class":"area-standard tile-d content-center","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"text":"<p>it's about programming a system that visualizes communication through design.</p>","class":"headline-2 typecolor-dim-a","spacer":"spacer-a"},"id":"c0a52cd9-9fb6-4061-80ea-b2c3dbee8361","isHidden":false,"type":"text"}],"id":"3e3756a2-b50a-4aa6-9643-5af2694d42cf","width":"1/1"}],"id":"397bbeeb-8959-44df-a91c-e4367108665b"},{"attrs":{"class":"area-standard vislayer-a theme-light","grid":"","spacer":"","padding":"tile-padding-d"},"columns":[{"blocks":[{"content":{"level":"h1","text":"Profile","class":"headline-2","spacer":"spacer-b"},"id":"a4e63434-ddde-4405-8ce7-fac0743932e1","isHidden":false,"type":"heading"},{"content":{"text":"<p>Niklas Osowitz is a Creative Director, Developer &amp; Digital Artist specialized in creating intuitive solutions and building new ways to communicate through visuals. Niklas works on Branding, Webdevelopment, Motion Design, Visual Identities and is also the founder of the network-based Ultralightbeam Studio, a creative collective for full service marketing and branding. He was born in 1998 in Osnabrück, Germany and started his career ten years ago as a web developer for small companies.</p>","class":"paragraph-1","spacer":"spacer-a"},"id":"2d6fe8f6-7c21-421e-a36c-234aadb98ffb","isHidden":false,"type":"text"},{"content":{"text":"<p>Since then he has worked successfully in many positions within advertising agencies, marketing departments and as a freelancer. This variety of projects with different focus, size, budget, multilingual and with diverse industries creates a unique understanding for the implementation of innovative long-lasting solutions. Almost ten years of experience and expertise in the digital field, especially in project management and creative direction, enables a good understanding of organizational issues and the development of high-quality solutions.</p>","class":"paragraph-1","spacer":""},"id":"3053a878-5708-495c-a0c2-efa70a250957","isHidden":false,"type":"text"}],"id":"e1e482c5-6ef1-4983-8a1a-9635f0b1949a","width":"1/1"}],"id":"07ab16d7-89e7-42dc-abe7-843dbe88160b"}]
+
+----
+
+Intrests: [{"attrs":{"class":"area-standard vislayer-a","grid":"area-grid-50 textcolumn-50","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Influences","class":"headline-2 typecolor-dim-a","spacer":"spacer-b"},"id":"bc4b60ad-7a2c-4ca1-a5e4-6f5627a68039","isHidden":false,"type":"heading"},{"content":{"text":"<p>My own claim is to compete with the world-leading agencies. My ideas and learnings evolve by analyzing them and their projects. Although, my biggest inspiration always comes through music, cinema and their artworks.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"9daf9d31-ad02-43c5-a99d-6b97aadf2bea","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://a4DKZS2PnU6lGQHr"],"src":"","alt":"","format":"format-16-9","class":"","spacer":"spacer-b"},"id":"69e59485-5e00-4b90-a362-f16d0389313a","isHidden":false,"type":"image"},{"content":{"level":"h3","text":"<strong>For me, there are three major reasons to draw inspiration from art.</strong>","class":"paragraph-1","spacer":"spacer-a"},"id":"382aaaa9-6f4a-4c75-b9da-cb741e0eb503","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Especially vinyl and paintings have a tactile quality, a raw character that offers us a rare experience nowadays. Achieving a sense of reality, a distinctive feel in all kinds of design, is my priority.</li><li>Art has a conceptual layer. Rembrandt was probably the first Creative Director in history. The distinctive selection of elements that depict a story in a single image is the most essential skill for good communication.</li><li>The palette of expression is broader than what we know in our streamlined, capitalistic environment. We can add more character and thought into projects to establish a human connection.</li></ul>","listtype":"list-a","class":"paragraph-1","spacer":"spacer-b"},"id":"132b1aaf-7000-4a6b-b1de-93ada89d0abe","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<strong>This is where I draw my inspiration from:</strong>","class":"paragraph-1","spacer":"spacer-a"},"id":"ded936d7-a594-41ba-9911-e9d0b3217242","isHidden":false,"type":"heading"},{"content":{"buttontype":"hyperlink","buttonurl":"https://boxd.it/GYsp","buttonhref":"","buttonattributes":"target=\"_blank\"","buttontitle":"Visit my Letterboxd profile","buttonstyle":"button-c","spacer":"spacer-y","buttonicon":"arrowtopright","class":"hovereffect-a"},"id":"32e9c8a1-6b33-464d-963d-59a6e9a93b9a","isHidden":false,"type":"button"},{"content":{"buttontype":"hyperlink","buttonurl":"https://music.apple.com/de/playlist/inspiration-to-playlist/pl.u-DdANxE3IqZD6Yd?l=en","buttonhref":"","buttonattributes":"target=\"_blank\"","buttontitle":"Hear the inspiration","buttonstyle":"button-c","spacer":"","buttonicon":"arrowtopright","class":"hovereffect-a"},"id":"c1d9f0db-2c49-4a5a-a105-77893ceeb656","isHidden":false,"type":"button"}],"id":"ae8e85ca-04b0-4ea7-9fd6-582f7c14cc63","width":"1/2"},{"blocks":[{"content":{"level":"h2","text":"Expertise","class":"headline-2 typecolor-dim-a","spacer":"spacer-b"},"id":"5e5f1054-870c-4348-871a-bb2369f135c1","isHidden":false,"type":"heading"},{"content":{"text":"<p>I already worked in many design sectors with contrasting projects troughout many industries. Always driven by finding a strategy, a distinctive character and an user friendly behavior and merge everything into a fulfilling and unique outcome. The different experiences of past projects are helping me to open new perspectives and tie them together.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"bdcde9cf-2898-4dcf-bdac-b60fc11109c1","isHidden":false,"type":"text"},{"content":{"class":"line-b width-a","spacer":"spacer-c"},"id":"6da6bc05-7f60-458e-a50d-bd698931f1cf","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"Skills","class":"headline-3 typecolor-dim-a","spacer":"spacer-b"},"id":"7aa19a36-6a12-47cd-a482-408f9ae37031","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Creative Direction:</strong> brand identity design, organisation and management</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"ae836025-e600-45f4-a364-e2324e7d3298","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Strategy &amp; Marketing:</strong> editorial guidance, campaign management &amp; planning, workshops for targeting &amp; communication, social media marketing, Google Ads marketing</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"ee81bb69-699e-4c04-b213-9e9c990ebdef","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Web design:</strong> user experience research (user persona analyses, empathy mapping, user flow analyses, customer journey analyses, user interviews, usability testing), interaction design, wireframing &amp; prototyping, design systems, user interface design - using Adobe XD and Figma</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"6d378610-891d-485c-beb5-4a98bd89914d","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Frontend development</strong> - utilizing HTML, CSS, JavaScript, Bootstrap, Tailwind</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"4624b031-9f43-402e-848d-eff5f26ce9d3","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Fullstack development</strong> - working with <a href=\"https://getkirby.com/\" target=\"_blank\" title=\"Kirby\">Kirby</a>, <a href=\"https://wordpress.com/de/\" target=\"_blank\">Wordpress</a>, <a href=\"https://typo3.org/\" target=\"_blank\">Typo3</a>, <a href=\"https://webflow.com/\" target=\"_blank\">Webflow</a>, GitHub</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"2b49f425-4be9-4950-8249-d5c04aa50205","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Graphic design:</strong> visual identity design, branding/logo design, campaign and single solutions - utilizing Adobe Illustrator, Adobe InDesign</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"c78b37cc-0165-4eac-8796-94cf1f585364","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Video:</strong> motion design, video shoots, editing, color correction - using DaVinci Resolve, Adobe Premiere, and Adobe After Effects</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"612405f4-f5f7-48ea-b111-242f534d4689","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Photography:</strong> product shoots, branding photos - utilizing Lightroom, Photoshop, Sony A7</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"42f20cd6-fcbd-40fb-80f6-89621b81ddc0","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>AI</strong>: Prompting - using OpenAI, Firefly, Sensei</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"524464e0-d972-4ad3-8dc2-3b3f8454295f","isHidden":false,"type":"text"}],"id":"c86ab144-67b9-42de-8c44-d93792efb9f2","width":"1/2"}],"id":"e3d279dd-586f-478f-b160-5cc288e093b0"}]
+
+----
+
+Values: 
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Expertise: 
+
+----
+
+Influences: 
+
+----
+
+Files:
+
+- file://scQEfFOAKh7b0x3u
+- file://3vfMWLgicn73T1et
+
+----
+
+Uuid: wrIoI1HsopdN40NK

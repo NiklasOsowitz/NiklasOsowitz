@@ -1,0 +1,5 @@
+Uuid: slftisKaaE7R4x0n
+
+----
+
+Template: blocks/image

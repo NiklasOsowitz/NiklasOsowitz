@@ -1,0 +1,112 @@
+Title: Aurelia
+
+----
+
+Projectoverview: [{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://8hoMvoQQ6p9KnU4A"],"src":"","alt":"","format":"format-16-9","class":"roundness-a reveal-a","spacer":""},"id":"5cb10439-ea54-4067-9516-4562c4c5938f","isHidden":false,"type":"image"}],"id":"02030d7c-7a8f-4637-94cf-ab024ef0e8cf","width":"1/1"}],"id":"ea9a302d-ef58-49fc-ac32-69d1319ee8a7"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Aurelia Restaurant &amp; Café","class":"headline-2 typecolor-white reveal-a","spacer":"spacer-b"},"id":"b73be78e-bb1c-4298-b3c5-8c42f7c0ad72","isHidden":false,"type":"heading"},{"content":{"text":"<p>With simple and carefullly chosen ingredients - we create an atmosphere for wonderful experiences.</p>","class":"paragraph-1 reveal-a","spacer":"spacer-a"},"id":"efdcb7c1-0c4c-4c52-bf87-7f7e5e11ee37","isHidden":false,"type":"text"}],"id":"5cb0d9dc-771a-48f2-ad3c-a009bfc2a0d3","width":"1/1"}],"id":"4c523f94-8b62-4399-aa6f-571185e025eb"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"class":"reveal-a","spacer":""},"id":"d181182e-fe06-40d1-a5ba-6897c9bf1a53","isHidden":false,"type":"projectmeta"}],"id":"8c07de84-bece-47af-91cf-346aa2f2d820","width":"1/1"}],"id":"ebdf2bcb-04e2-47a6-a5a8-98ba003d367d"}]
+
+----
+
+Projectcontent: [{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://TwFByqvXKvhchuVo"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"e1f3406f-83a9-4cef-af83-bc17375c9cce","isHidden":false,"type":"image"}],"id":"0f669a79-0e5a-4c9e-be19-8a3a906ca499","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://v9OmaFECSrlvkw7e"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"b38ed20b-ab88-4458-87cb-2811ae923ce9","isHidden":false,"type":"image"}],"id":"11ddd615-d187-4e90-9f67-0a256f9a6338","width":"1/2"}],"id":"2b8dd2d4-ab6f-4e46-8c2a-3bf300f771dd"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://hqWuiez0ueKOHkB3"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"36a2ab6a-4156-4097-a388-6b29cd24fba8","isHidden":false,"type":"image"}],"id":"cdbb0ce8-4bd3-49d7-a0e5-bfc67fba619f","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://Iy6tVUJBuJR3MDGx"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"3e9f45d2-5953-42e6-a91c-649ecaab52cf","isHidden":false,"type":"image"}],"id":"e5d13057-8a52-43de-ae05-4d3b4546b5ad","width":"1/2"}],"id":"3f795eec-89ee-47fe-b9fd-161878b8ed04"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://0lkf0oT7VHQWWWXF"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"5094ee1c-fb45-4c7f-be3b-bc1542654fbf","isHidden":false,"type":"image"}],"id":"e0623d29-59e2-4db3-ad44-2ddfcc940d4c","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://Nc7BS5kBM4zj5QQC"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"0c41a425-f84b-4cfd-833d-79db9551f4c0","isHidden":false,"type":"image"}],"id":"c06244b1-0f9b-4c66-a0df-9199e9b8abe3","width":"1/2"}],"id":"257ccb08-7654-4d95-a6a3-080a7cd53cb9"},{"attrs":{"class":"area-wide","grid":"","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://5ZFakGU312r5kqYM"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"c9406010-20c8-4cd9-ba76-a3a235db8f1c","isHidden":false,"type":"image"}],"id":"0b1e6b19-1256-4561-9288-e6d5a2d8b4fc","width":"1/1"}],"id":"d1d9a702-d4c4-4e39-bc1c-10aa97b62f2d"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://1ae9BsAgyCvaRRVC"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"a04dc269-b20b-4441-9950-80fd877afd01","isHidden":false,"type":"image"}],"id":"bc04be19-18f7-4b0e-80c4-d9f8b18d1659","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://k2ErzvUHAw24I3zo"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"4443a487-158e-4d4b-9d5f-b02481ee904c","isHidden":false,"type":"image"}],"id":"e95fca2d-c36c-4655-8adf-65be3226500f","width":"1/2"}],"id":"fae4e1d7-4a2c-4c62-9e04-c7cd2422e94f"},{"attrs":{"class":"area-wide","grid":"area-grid-25 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://7VFUk3jxR2vFKyaq"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"7739269d-d4ff-4903-b280-05ae997152c6","isHidden":false,"type":"image"}],"id":"f1319fe2-20b0-4cac-a305-806d5a70f1ff","width":"1/4"},{"blocks":[{"content":{"location":"kirby","image":["file://dKUr9g4acZmrwSQG"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"1b96f0f5-999b-411d-a9dd-4072554dae73","isHidden":false,"type":"image"}],"id":"c54b1cb1-49e5-4265-98a7-4adf1d07424b","width":"1/4"},{"blocks":[{"content":{"location":"kirby","image":["file://ArbLMzvO8BEJv1zN"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"94a7290d-2c17-4362-a75b-19e96fb80e6e","isHidden":false,"type":"image"}],"id":"82ead113-c536-401a-93a6-34a152210bd5","width":"1/4"},{"blocks":[{"content":{"location":"kirby","image":["file://gzALvnF1gtMooFag"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"c955abda-b26a-4fc6-baa5-fb555c2dd55e","isHidden":false,"type":"image"}],"id":"0b639ade-cf83-495c-a395-99fc962922cc","width":"1/4"}],"id":"44b0a697-4f78-4a6e-af06-2c38fc12a54a"},{"attrs":{"class":"area-wide","grid":"area-grid-33 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://MkadhMdiKWCeX8fX"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"58558262-079b-4f6f-9af2-606406e2f0c4","isHidden":false,"type":"image"}],"id":"b073f7f6-042c-4a44-b235-107075f396c8","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://HqZHzdY9kLUTVAi6"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"235e474c-c056-4ace-9d24-ab77b42d30c7","isHidden":false,"type":"image"}],"id":"81c3773a-1361-443f-b4e6-af7d6676a42b","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://slftisKaaE7R4x0n"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"9101b7b3-0bed-4570-bfca-fd5b67fd9d45","isHidden":false,"type":"image"}],"id":"e9f90e89-1e2c-40d0-976b-722a9c73a8ab","width":"1/3"}],"id":"94966566-2eb2-4d20-962c-44e7dd591d79"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://6PHoJwkZBsyyrjjn"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"c90f5154-dce4-49b3-a947-51dc06ed1f9e","isHidden":false,"type":"image"}],"id":"7bdd0aae-9a73-49f9-8d00-78c7bb6c57b3","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://5e7W3wPbphp4AgxB"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"6f470dbf-40b6-4bdc-9147-2bfb6227e11a","isHidden":false,"type":"image"}],"id":"f333d36e-5a15-4912-9c25-0b83da08f164","width":"1/2"}],"id":"1518f2b9-4b23-49dc-8f3d-62194994f8d4"},{"attrs":{"class":"area-wide","grid":"area-grid-25 gap-a","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://OCBG7KFXYmyDDzTF"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"fdfb0bd9-006d-46a1-b292-f65c4db07901","isHidden":false,"type":"image"}],"id":"491c1605-45d1-49df-bd9d-b16c08c77326","width":"1/4"},{"blocks":[{"content":{"location":"kirby","image":["file://LQ9ucu4hgw3aERza"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"77755b6b-575a-47c8-a396-c22ab9e025e9","isHidden":false,"type":"image"}],"id":"2463916d-a0f4-4223-9887-d132885e591d","width":"1/4"},{"blocks":[{"content":{"location":"kirby","image":["file://05b5C6ipupYt0ZeD"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"ed5c325f-4257-4341-a39e-57944af7be82","isHidden":false,"type":"image"}],"id":"0aae8bc7-2b31-4c21-88c8-20148bd874af","width":"1/4"},{"blocks":[{"content":{"location":"kirby","image":["file://5pMg1HFrs806LIjh"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"73883046-e93a-46fb-b8aa-4a3a0f13ad09","isHidden":false,"type":"image"}],"id":"a3ce24e9-3e37-40aa-bb7f-a4d7db06708b","width":"1/4"}],"id":"6791186a-5796-45d6-af57-c0df834d3048"},{"attrs":{"class":"","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"buttontype":"hyperlink","buttonurl":"https://www.behance.net/gallery/126753357/Aurelia","buttonhref":"","buttonattributes":"target=\"_blank\"","buttontitle":"View this project on Behance","buttonstyle":"button-c","spacer":"","buttonicon":"arrowtopright","class":"hovereffect-a"},"id":"ccaba91c-4d1f-41e5-82e9-cd364c511601","isHidden":false,"type":"button"}],"id":"413ff121-8c67-4038-ba8b-4aa1b32223db","width":"1/1"}],"id":"c6fea40b-272e-4fe0-a75a-5e2a7b6b5c36"}]
+
+----
+
+Projectcover: - file://XuXWzF3HgEWQE4QH
+
+----
+
+Projectprevtitle:
+
+Aurelia
+Restaurant & Café
+
+----
+
+Projectprevtext: With simple and carefullly chosen ingredients - we create an atmosphere for wonderful experiences.
+
+----
+
+Projectclient: Aurelia Restaurant & Café
+
+----
+
+Projectyear: 2021
+
+----
+
+Projectexternlink: https://www.behance.net/gallery/126753357/Aurelia
+
+----
+
+Projecttags: Photography, Branding, Creative Direction
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Projectcolor: 
+
+----
+
+Uuid: TsmMv06tjcApbLjt

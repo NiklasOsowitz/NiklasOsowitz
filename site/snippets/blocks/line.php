@@ -1,0 +1,1 @@
+<hr class="<?= $block->class()->value() ?> <?= $block->spacer()->value() ?>" />

@@ -1,0 +1,21 @@
+name: field.blocks.text.name
+icon: text
+wysiwyg: true
+preview: text
+fields:
+  text:
+    type: writer
+    nodes: false
+    placeholder: field.blocks.text.placeholder
+  class:
+    label: Classes
+    type: text
+  spacer:
+      label: Spacer
+      type: select
+      width: 1/2
+      options:
+        spacer-a: spacer-a
+        spacer-b: spacer-b
+        spacer-c: spacer-c
+        spacer-d: spacer-d

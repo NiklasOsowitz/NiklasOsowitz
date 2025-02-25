@@ -1,0 +1,109 @@
+Title: It's Almost Dry
+
+----
+
+Projectoverview: [{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://brTGB1uOnhJ8C9KX"],"src":"","alt":"","format":"format-16-9","class":"roundness-a reveal-a","spacer":""},"id":"5cb10439-ea54-4067-9516-4562c4c5938f","isHidden":false,"type":"image"}],"id":"02030d7c-7a8f-4637-94cf-ab024ef0e8cf","width":"1/1"}],"id":"ea9a302d-ef58-49fc-ac32-69d1319ee8a7"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"It's Almost Dry - Pusha T","class":"headline-2 typecolor-white reveal-a","spacer":"spacer-b"},"id":"b73be78e-bb1c-4298-b3c5-8c42f7c0ad72","isHidden":false,"type":"heading"},{"content":{"text":"<p>Alternative Album cover for the 4th Studio Album of Pusha T - It's Almost Dry. I made some artworks for this project, inspired by the visuals of the single videos, events, the merchandise, billboards etc. To catch the vibe I listened to the music the whole process long.</p>","class":"paragraph-1 reveal-a","spacer":"spacer-a"},"id":"efdcb7c1-0c4c-4c52-bf87-7f7e5e11ee37","isHidden":false,"type":"text"}],"id":"5cb0d9dc-771a-48f2-ad3c-a009bfc2a0d3","width":"1/1"}],"id":"4c523f94-8b62-4399-aa6f-571185e025eb"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"class":"reveal-a","spacer":""},"id":"d181182e-fe06-40d1-a5ba-6897c9bf1a53","isHidden":false,"type":"projectmeta"}],"id":"8c07de84-bece-47af-91cf-346aa2f2d820","width":"1/1"}],"id":"ebdf2bcb-04e2-47a6-a5a8-98ba003d367d"}]
+
+----
+
+Projectcontent: [{"attrs":{"class":"area-wide","grid":"","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://aKUM3d1sc9YHDu1b"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"b38ed20b-ab88-4458-87cb-2811ae923ce9","isHidden":false,"type":"image"}],"id":"1d3ed242-9f02-416e-84fa-3291c7bd4194","width":"1/1"}],"id":"a2e1e5b2-1890-48bd-9325-7161f3d91746"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://XSKApQkoEGBIzvVh"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"36a2ab6a-4156-4097-a388-6b29cd24fba8","isHidden":false,"type":"image"}],"id":"0f669a79-0e5a-4c9e-be19-8a3a906ca499","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://wF7RhI1ivEGeHSbq"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"e1f3406f-83a9-4cef-af83-bc17375c9cce","isHidden":false,"type":"image"}],"id":"11ddd615-d187-4e90-9f67-0a256f9a6338","width":"1/2"}],"id":"2b8dd2d4-ab6f-4e46-8c2a-3bf300f771dd"},{"attrs":{"class":"area-wide","grid":"","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://mMeWk1aCreDE0G0w"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"7739269d-d4ff-4903-b280-05ae997152c6","isHidden":false,"type":"image"}],"id":"d1a41ecc-e234-4195-9150-c9545fcefbce","width":"1/1"}],"id":"0a151514-b267-469b-816c-9345600dcf5d"},{"attrs":{"class":"area-wide","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://O7sMDlwWH0quIA1o"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"5094ee1c-fb45-4c7f-be3b-bc1542654fbf","isHidden":false,"type":"image"}],"id":"0dc7192c-e874-4e1f-a02f-e7eb6cec4a72","width":"1/1"}],"id":"a317250f-0e0b-4cd0-b465-ea445173b47c"},{"attrs":{"class":"area-standard content-center","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"buttontype":"hyperlink","buttonurl":"https://www.behance.net/gallery/142278237/Its-Almost-Dry","buttonhref":"","buttonattributes":"target=\"_blank\"","buttontitle":"View this project on Behance","buttonstyle":"button-c","spacer":"","buttonicon":"arrowtopright","class":"hovereffect-a"},"id":"1647a494-8db0-4c57-bcc9-966546e330b8","isHidden":false,"type":"button"}],"id":"c6bc0d6a-df07-4191-850f-94260df1ea33","width":"1/1"}],"id":"00a46e60-8666-4f99-a17a-b939646df837"}]
+
+----
+
+Projectcover: - file://SsUEci4vMi2GWVUW
+
+----
+
+Projectprevtitle: It's Almost Dry
+
+----
+
+Projectprevtext: Alternative Album cover for the 4th Studio Album of Pusha T - It's Almost Dry. I made some artworks for this project, inspired by the visuals of the single videos, events, the merchandise, billboards etc. To catch the vibe I listened to the music the whole process long.
+
+----
+
+Projectclient: 
+
+----
+
+Projectyear: 2022
+
+----
+
+Projectexternlink: https://www.behance.net/gallery/142278237/Its-Almost-Dry
+
+----
+
+Projecttags: Artwork
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Projectcolor: 
+
+----
+
+Uuid: R2W1B8QqLfiNYzfo

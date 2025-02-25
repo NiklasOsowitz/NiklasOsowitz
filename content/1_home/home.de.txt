@@ -1,0 +1,80 @@
+Title: Startseite
+
+----
+
+Hello: [{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Ich strebe nach immersiven Design<br>und schaffe großartige Erfahrungen.","class":"headline-2 typecolor-white","spacer":""},"id":"fa891bb5-681f-4418-aeb4-5bd11a0da037","isHidden":false,"type":"heading"}],"id":"28df7c26-6733-47aa-bc83-34b9f3991bf8","width":"1/1"}],"id":"10cf163f-e152-441a-924a-6d3dc0b0c27e"},{"attrs":{"class":"area-standard tile-c content-center","grid":"","spacer":"spacer-a","padding":""},"columns":[{"blocks":[{"content":{"level":"h3","text":"Moin moin,","class":"headline-4","spacer":""},"id":"8916e572-4958-4bad-b95c-f3c5a64f0392","isHidden":false,"type":"heading"}],"id":"2dae60c0-aee9-4a87-a43f-af0cbf568ba5","width":"1/1"}],"id":"563f519d-cce3-4e7e-9eaf-f0e10faac3a2"},{"attrs":{"class":"area-standard tile-c content-center","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"text":"<p>Ich bin Niklas Jacob Osowitz. Ich bin ein Creative Director /  Webentwickler &amp; Digital Artist mit mittlerweile fast zehnjähriger Erfahrung.<br>Hauptsächlich biete ich Strategie- oder Identitätslösungen, sowie Motion Design und Webentwicklung für vor allem innovative und progressive Unternehmen.<br>Die Essenz meiner Arbeit liegt in der Schaffung von langlebigen Produkten und Marken in jedem Aspekt und einer Umsetzung mit großem Mehrwert und Qualität.</p>","class":"paragraph-1","spacer":"spacer-a"},"id":"5f5bd935-1f8a-4649-844d-1aaa26b33705","isHidden":false,"type":"text"}],"id":"1ff89541-67cd-404a-859a-8c24aa9f2b8a","width":"1/1"}],"id":"28273696-df96-46f5-81cf-572c5911b2c2"},{"attrs":{"class":"area-pano tile-a","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h4","text":"Showreel","class":"headline-2","spacer":"spacer-b"},"id":"51e911e4-e810-43b0-aed8-35b521d5bc6c","isHidden":false,"type":"heading"},{"content":{"location":"kirby","url":"","video":["file://rtxAWHCyegH3QzwV"],"poster":[],"autoplay":"true","muted":"true","loop":"true","controls":"false","preload":"auto","class":"video-full format-21-9"},"id":"ca4fdac2-8f14-49e4-a8dc-e7ecc45fb8cc","isHidden":false,"type":"video"}],"id":"111aa4fb-9838-4b32-8cd3-49eb60fcc72d","width":"1/1"}],"id":"c3a36d7c-9c3c-4e87-b445-621558531436"},{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-b","padding":""},"columns":[{"blocks":[{"content":{"level":"h4","text":"Projekte die ich hervorheben möchte","class":"headline-3","spacer":""},"id":"b649d518-ff5d-4460-befb-dd4d05dee57f","isHidden":false,"type":"heading"}],"id":"616934ea-7881-46db-b2c2-9bab22da0e2d","width":"1/1"}],"id":"24597c0b-fd39-42e9-9909-c90f57de72a7"},{"attrs":{"class":"area-pano teaser-container","grid":"area-grid-8 gap-c","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":[],"id":"fb1eea38-ac2b-4f93-b6f7-b618ad810e66","isHidden":false,"type":"area-projects-teaser"}],"id":"927e1a76-1e4c-4bc8-ad2f-231d9380b31c","width":"1/1"}],"id":"c629f00b-95c9-43e2-a9bc-8b081e04ea23"},{"attrs":{"class":"area-pano","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"buttontype":"expert","buttonurl":"","buttonhref":"work/#projects","buttonattributes":"","buttontitle":"Ausgestellte Projekte ansehen","buttonstyle":"button-a","spacer":"","buttonicon":"arrowright","class":"hovereffect-a"},"id":"22e6be55-66b0-4543-be31-3eeb952ef774","isHidden":false,"type":"button"}],"id":"dbb8bc31-ebc0-455f-856d-6cc4fffe8fce","width":"1/1"}],"id":"2561494b-2712-430c-b7f2-ae72eb7edad6"}]
+
+----
+
+Vision: [{"attrs":{"class":"area-standard","grid":"area-grid-50 gap-b","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Klarheit in der Anwendung - <br>vielschichtig in der Wahrnehmung","class":"headline-1 tile-c","spacer":"spacer-b"},"id":"5be0107b-4534-4f2c-8425-cde8276bdab3","isHidden":false,"type":"heading"}],"id":"e7611381-dbfd-43ce-aba2-4180f1288f22","width":"1/2"},{"blocks":[],"id":"10a8d3fb-c4bf-4c34-a8c5-998ced27054c","width":"1/2"}],"id":"c4464c89-8dfc-46d7-bf33-432c85495250"},{"attrs":{"class":"area-standard tile-c content-center","grid":"","spacer":"spacer-b","padding":""},"columns":[{"blocks":[{"content":{"text":"<p>Mein Ziel ist es, die besten Lösungen mit der besten Benutzerfreundlichkeit zu entwickeln. Dabei verbinde ich dies mit einem einzigartigen Look and Feel und schaffe viel Potenzial für ein großartiges Erlebnis. Dieses Prinzip erzielt einen klaren, leicht verständlichen ersten Eindruck und schafft eine tiefe Kommunikationsebene für deine Kunden.</p>","class":"paragraph-1","spacer":""},"id":"94816f48-b849-4a76-b51c-7cd63fa99fe7","isHidden":false,"type":"text"}],"id":"ee53dcf0-6145-4be9-aa8f-a07d97020306","width":"1/1"}],"id":"0368f169-155e-4a54-b204-3c7b7ce1c175"},{"attrs":{"class":"area-standard tile-c content-center","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"text":"<p><strong>Neue Standards definieren</strong> - Ich arbeite gerne mit progressiven und integrativen Unternehmen zusammen, die offen für neue Ideen sind und versuchen, neue Standards in ihrem Bereich oder ihrer Branche zu definieren.</p>","class":"paragraph-1","spacer":""},"id":"0695ab07-81bc-4951-a5a0-88993aba970b","isHidden":false,"type":"text"}],"id":"adef513a-69a6-4587-b1d7-47637e7c4166","width":"1/1"}],"id":"2e94b5c8-4142-4172-b81e-14798c66d158"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"class":"line-c","spacer":""},"id":"d0fe84a2-7071-486a-b621-30854f0e0e65","isHidden":false,"type":"line"}],"id":"d5197769-9c6a-43f7-935a-b5012bded21f","width":"1/1"}],"id":"1e02e9de-f68f-45ba-86de-aae3f9238a6d"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Vielfältige Dienstleistungen","class":"headline-2","spacer":"spacer-b"},"id":"4d6c69eb-7b1a-4ee2-83b1-3e868cc4b8b0","isHidden":false,"type":"heading"},{"content":{"haccordionheadline":"","haccordionitems":[{"haccordionitemheadline":"Creative Direction","haccordionitemcontent":[{"itemtext":"Kommunikationskonzepte"},{"itemtext":"Cross-Media-Marketing"},{"itemtext":"Kampagnenentwicklung"},{"itemtext":"Kreative Beratung"},{"itemtext":"Positionierung im Markt & Differenzierungsstrategien"},{"itemtext":"Integrative Marken- & Content-Strategien"},{"itemtext":"Marken- & Kommunikationsleitungs-Trainings"},{"itemtext":"Workshops für Ideenfindung & Entwicklung"}]},{"haccordionitemheadline":"Branding","haccordionitemcontent":[{"itemtext":"Texterstellung & kreatives Schreiben"},{"itemtext":"Texterstellung für Markennarrative"},{"itemtext":"SEO-Contenterstellung"},{"itemtext":"Markenidentität & Design"},{"itemtext":"Grafikdesign"}]},{"haccordionitemheadline":"Marketing","haccordionitemcontent":[{"itemtext":"Social-Media-Marketing"},{"itemtext":"Community Management"},{"itemtext":"Kampagnenplanung & Koordination"},{"itemtext":"Kampagnenentwicklung für Multi-Kanäle"},{"itemtext":"Reporting & Analysen"},{"itemtext":"Analytics & KPI Reports"}]},{"haccordionitemheadline":"Webentwicklung","haccordionitemcontent":[{"itemtext":"Nutzererfahrungsanalyse & Design"},{"itemtext":"Design von Nutzeroberflächen"},{"itemtext":"Frontend Entwicklung"},{"itemtext":"Backend Entwicklung"}]},{"haccordionitemheadline":"Video & Animation","haccordionitemcontent":[{"itemtext":"Animationsdesign"},{"itemtext":"Konzeptentwicklung & Storyvorbereitung"},{"itemtext":"Videoschnitt"},{"itemtext":"Farbkorrektur"}]},{"haccordionitemheadline":"Photographie","haccordionitemcontent":[{"itemtext":"Event-Photographie"},{"itemtext":"Kampagnen-Photographie"},{"itemtext":"Marken-Photographie"},{"itemtext":"Nachbearbeitung & Retusche"}]}],"class":"","spacer":""},"id":"925ad5a2-ff4a-4538-b555-429a5b1611b1","isHidden":false,"type":"area-hoveraccordion"}],"id":"878bbcf5-b0d4-4cc8-9ef8-55f4342b80e0","width":"1/1"}],"id":"4cf5922d-cfe2-4f63-87f9-c329e435c90a"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: true
+
+----
+
+Robotsfollow: true
+
+----
+
+Robotsarchive: true
+
+----
+
+Robotsimageindex: true
+
+----
+
+Robotssnippet: true
+
+----
+
+Metainherit: 
+
+----
+
+Files:
+
+- file://YSwN8qqGZTEoiInC
+- file://Ai26wwhg17bAHTLz

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.75 559.54">
+    <defs>
+        <style>
+            .hyperlink-cls1 {
+                stroke-miterlimit: 10;
+            }
+            .hyperlink-cls1, .hyperlink-cls2 {
+                fill:none;
+                stroke: #93979A;
+                stroke-width: 90px;
+            }
+            .hyperlink-cls2 {
+                stroke-linecap: round;
+                stroke-linejoin: round;
+            }
+        </style>
+    </defs>
+    <g>
+        <line class="hyperlink-cls1" x1="24.75" y1="534.79" x2="524.75" y2="34.79"/>
+        <polyline class="hyperlink-cls2" points="524.75 455 524.75 35 104.75 35"/>
+    </g>
+</svg>

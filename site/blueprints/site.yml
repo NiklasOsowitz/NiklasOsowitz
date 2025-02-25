@@ -1,0 +1,351 @@
+title: Site
+
+tabs:
+  pagessite:
+    label: Pages
+    icon: menu
+    columns:
+      left:
+        width: 1/1
+        sections:
+          pages:
+            type: pages
+            layout: cards
+            label:
+              en: Pages (Main)
+              de: Seiten (Main)
+            empty:
+              en: No sites
+              de: Kein Inhalt
+            image: false
+            sortable: false
+            templates:
+              - default
+              - home
+              - work
+              - about
+            templatesIgnore:
+              - legalnotice
+              - privacypolicy
+              - error
+              - emailmarketing
+          pageshidden:
+            type: pages
+            layout: cards
+            label:
+              en: Pages (Hidden)
+              de: Seiten (Versteckt)
+            empty:
+              en: No sites
+              de: Kein Inhalt
+            image: false
+            sortable: false
+            templates:
+              - legalnotice
+              - privacypolicy
+              - error
+              - emailmarketing
+            templatesIgnore:
+              - default
+              - home
+              - work
+              - about
+  contentsite:
+    label: Content
+    icon: layers
+    columns:
+      left:
+        width: 1/4
+        sections:
+          infosite:
+            type: fields
+            fields:
+              headlineinfo:
+                label: Info
+                type: headline
+              name:
+                label: Name
+                icon: text
+                type: text
+              subline1:
+                label: Subline 1
+                icon: title
+                type: text
+              subline2:
+                label: Subline 2 (with breaks)
+                icon: paragraph
+                type: textarea
+                buttons: false
+              subline3:
+                label: Subline 3 (small)
+                icon: title
+                type: text
+              creatortag:
+                label: Creator tag
+                icon: flag
+                type: text
+              scrolldowntitle:
+                label: Scrolldown title
+                icon: text
+                type: text
+      middleA:
+        width: 1/4
+        sections:
+          contact:
+            type: fields
+            fields:
+              headlinecontact:
+                label: Contact
+                type: headline
+              contacttitle:
+                label: Contact title
+                icon: text
+                type: text
+              phonetitle:
+                label: Phone title
+                icon: text
+                type: text
+              phone:
+                label: Phone number
+                type: tel
+              emailtitle:
+                label: Email title
+                icon: text
+                type: text
+              email:
+                label: Email adress
+                type: email
+              adress:
+                label: Adress
+                type: textarea
+                buttons: false
+      middleB:
+        width: 1/4
+        sections:
+          externlinksA:
+            type: fields
+            fields:
+              headlineexternlinksA:
+                label: Extern links
+                type: headline
+              contactfield1title:
+                label: Contactfield-1 (Incl. Navigation)
+                icon: text
+                type: text
+                width: 1/2
+              contactfield1url:
+                label: Url
+                type: link
+                width: 1/2
+              contactfield1subtitle:
+                label: Subtitle
+                icon: text
+                type: text
+                width: 1/2
+              contactfield1text:
+                label: Text
+                icon: text
+                type: text
+                width: 1/2
+              lineA:
+                type: line
+              contactfield2title:
+                label: Contactfield-2 (Incl. Navigation)
+                icon: text
+                type: text
+              contactfield2url:
+                label: Url
+                type: link
+                width: 1/2
+              contactfield2subtitle:
+                label: Subtitle
+                icon: text
+                type: text
+                width: 1/2
+              lineB:
+                type: line
+              contactfield3title:
+                label: Contactfield-3
+                icon: text
+                type: text
+              contactfield3url:
+                label: Url
+                type: link
+                width: 1/2
+              contactfield3subtitle:
+                label: Subtitle
+                icon: text
+                type: text
+                width: 1/2
+      right:
+        width: 1/4
+        sections:
+          externlinksB:
+            type: fields
+            fields:
+              headlineexternlinksB:
+                label: Extern links
+                type: headline
+              contactfield4title:
+                label: Contactfield-4
+                icon: text
+                type: text
+                width: 1/2
+              contactfield4url:
+                label: Url
+                type: link
+                width: 1/2
+              contactfield4subtitle:
+                label: Subtitle
+                icon: text
+                type: text
+                width: 1/2
+              contactfield4text:
+                label: Text
+                icon: text
+                type: text
+                width: 1/2
+              lineC:
+                type: line
+              contactfield5title:
+                label: Contactfield-5
+                icon: text
+                type: text
+              contactfield5url:
+                label: Url
+                type: link
+                width: 1/2
+              contactfield5subtitle:
+                label: Subtitle
+                icon: text
+                type: text
+                width: 1/2
+              lineD:
+                type: line
+              contactfield6title:
+                label: Contactfield-6
+                icon: text
+                type: text
+              contactfield6url:
+                label: Url
+                type: link
+                width: 1/2
+              contactfield6subtitle:
+                label: Subtitle
+                icon: text
+                type: text
+                width: 1/2
+  filessite:
+      label: Files
+      icon: images
+      columns:
+        left:
+          width: 1/1
+          sections:
+            files:
+              label: Files
+              type: files
+              layout: cards
+              cover: true
+              extension: png, jpg, mp4,
+  elementssite:
+    label: Elements
+    icon: sparkling
+    columns:
+      left:
+        width: 1/2
+        sections:
+          sectionaboutteaser:
+            type: fields
+            fields:
+              headlineaboutteaser:
+                label: About teaser
+                type: headline
+              aboutteasertitle:
+                label: Title (About teaser)
+                icon: text
+                type: text
+              aboutteaserabouttitle:
+                label: About title (About teaser)
+                icon: text
+                type: text
+      right:
+        width: 1/2
+        sections:
+          sectioncontactteaser:
+            type: fields
+            fields:
+              headlinecontactteaser:
+                label: Contact teaser
+                type: headline
+              contactteasertitle:
+                label: Title (Contact teaser)
+                icon: text
+                type: text
+              contactteasersubtitle:
+                label: Subtitle (Contact teaser)
+                icon: text
+                type: text
+              contactteaserbuttontext:
+                label: Button text (Contact teaser)
+                icon: text
+                type: text
+  structuresite:
+    label: Banner & Preloader
+    icon: flag
+    columns:
+      left:
+        width: 1/2
+        sections:
+          sectionbanner:
+            type: fields
+            fields:
+              headlinebanner:
+                label: Banner
+                type: headline
+              bannerstatus:
+                label: Banner status
+                icon: bolt
+                type: toggle
+                text:
+                  - "inactive"
+                  - "active"
+              banner:
+                label: Banner text
+                icon: text
+                type: text
+              bannertype:
+                label: Button Type
+                type: radio
+                columns: 2
+                options:
+                  url: 'URL'
+                  attribute: 'Attribute'
+                default: url
+              bannerlink:
+                label: Banner link
+                type: link
+                when:
+                  bannertype: url
+              bannerattributes:
+                  label: Attributes
+                  type: text
+                  when:
+                    bannertype: attribute
+      right:
+        width: 1/2
+        sections:
+          sectionpreloader:
+            type: fields
+            fields:
+              headlinepreloader:
+                label: Preloader
+                type: headline
+              preloaderstatus:
+                label: Preloader status
+                icon: bolt
+                type: toggle
+                text:
+                  - "inactive"
+                  - "active"
+  seo: seo/site

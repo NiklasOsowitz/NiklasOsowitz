@@ -1,0 +1,69 @@
+Title: Impressum
+
+----
+
+Legalnotice: [{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Impressum","class":"headline-1","spacer":"spacer-c"},"id":"40f5ec5a-fe43-415b-8580-96b253197480","isHidden":false,"type":"heading"}],"id":"d2d94ea9-b66b-40a5-82e4-2356eb529890","width":"1/1"}],"id":"6a15d7ce-3e46-48b5-8204-471501a518c3"},{"attrs":{"class":"area-standard theme-light roundness-a","grid":"area-grid-50 gap-c","spacer":"spacer-c","padding":"tile-padding-c"},"columns":[{"blocks":[{"content":{"level":"h2","text":"Verantwortlich für den Inhalt gemäß § 55 Abs. 2 RStV:","class":"headline-3","spacer":"spacer-b"},"id":"fb882e03-7d99-433c-b1f4-2b50c726672f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Niklas Osowitz<br>Harburger Chaussee 63<br>20539 Hamburg<br>Deutschland</p>","class":"paragraph-1","spacer":""},"id":"324152c2-c9f6-4e21-8729-636ff73c7861","isHidden":false,"type":"text"}],"id":"85b1c210-43e4-4918-bf0c-3d1ea43e49c8","width":"1/2"},{"blocks":[{"content":{"level":"h2","text":"Angaben gemäß § 5 TMG:","class":"headline-3","spacer":"spacer-b"},"id":"5545827e-16d9-4378-ad00-8c9de943dc1b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Niklas Osowitz<br>Harburger Chaussee 63<br>20539 Hamburg<br>Deutschland</p>","class":"paragraph-1","spacer":""},"id":"0115f64e-3d68-475b-80a5-73f65a687a48","isHidden":false,"type":"text"}],"id":"00bee0df-e7bd-49b9-b80e-f7a0f3b2cea0","width":"1/2"}],"id":"0dad60bd-7a9b-47b2-8ecc-df5b9cebc500"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Haftungsausschluss","class":"headline-2","spacer":"spacer-b"},"id":"14cc7b65-8166-4ee6-a6fe-a911e687e2da","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Haftung für Inhalte","class":"headline-3","spacer":"spacer-a"},"id":"0f86bfa4-a849-4dde-ad9d-b3a71ddfaf7c","isHidden":false,"type":"heading"},{"content":{"text":"<p>Als Diensteanbieter bin ich gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich jedoch als Diensteanbieter nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werde ich diese Inhalte umgehend entfernen.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"b6ae9c2c-75d2-4830-8afe-4e41f68aa16e","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":"spacer-c"},"id":"d8717ca5-19a5-410b-94fb-acc4578f6f55","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"Haftung für Links","class":"headline-3","spacer":"spacer-a"},"id":"3cb00cfe-e59a-4e18-81e0-1bc96b68de93","isHidden":false,"type":"heading"},{"content":{"text":"<p>Mein Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Links umgehend entfernen.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"daf6c13f-f5f1-4682-8334-71507252261f","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":"spacer-c"},"id":"6dd1c254-70f2-45d7-8085-51940c6712b7","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"Urheberrecht","class":"headline-3","spacer":"spacer-a"},"id":"9659a28a-23a3-489e-b48d-52232b716fbb","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Solltest du trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Inhalte umgehend entfernen.</p>","class":"paragraph-1","spacer":""},"id":"bd6f2bf1-3a56-46e8-a113-4c3bfaf23c2c","isHidden":false,"type":"text"}],"id":"12735e3c-3fec-467f-95ca-e9a11d99a994","width":"1/1"}],"id":"f169f1d1-3ce5-43c0-bd90-7ff6719c353d"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: false
+
+----
+
+Robotsfollow: false
+
+----
+
+Robotsarchive: false
+
+----
+
+Robotsimageindex: false
+
+----
+
+Robotssnippet: false
+
+----
+
+Metainherit: 

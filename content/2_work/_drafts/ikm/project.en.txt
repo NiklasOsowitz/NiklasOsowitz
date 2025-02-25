@@ -1,0 +1,109 @@
+Title: IKM
+
+----
+
+Projectoverview: [{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":[],"src":"","alt":"","format":"format-16-9","class":"roundness-a reveal-a","spacer":""},"id":"5cb10439-ea54-4067-9516-4562c4c5938f","isHidden":false,"type":"image"}],"id":"02030d7c-7a8f-4637-94cf-ab024ef0e8cf","width":"1/1"}],"id":"ea9a302d-ef58-49fc-ac32-69d1319ee8a7"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"","class":"headline-2 typecolor-white reveal-a","spacer":"spacer-b"},"id":"b73be78e-bb1c-4298-b3c5-8c42f7c0ad72","isHidden":false,"type":"heading"},{"content":{"text":"","class":"paragraph-1 reveal-a","spacer":"spacer-a"},"id":"efdcb7c1-0c4c-4c52-bf87-7f7e5e11ee37","isHidden":false,"type":"text"},{"content":{"text":"","class":"paragraph-1 reveal-a","spacer":""},"id":"73100681-18b1-491d-a8f5-2f8c034b8632","isHidden":false,"type":"text"}],"id":"5cb0d9dc-771a-48f2-ad3c-a009bfc2a0d3","width":"1/1"}],"id":"4c523f94-8b62-4399-aa6f-571185e025eb"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"class":"reveal-a","spacer":""},"id":"d181182e-fe06-40d1-a5ba-6897c9bf1a53","isHidden":false,"type":"projectmeta"}],"id":"8c07de84-bece-47af-91cf-346aa2f2d820","width":"1/1"}],"id":"ebdf2bcb-04e2-47a6-a5a8-98ba003d367d"}]
+
+----
+
+Projectcontent: [{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[],"id":"cdbb0ce8-4bd3-49d7-a0e5-bfc67fba619f","width":"1/2"},{"blocks":[],"id":"e5d13057-8a52-43de-ae05-4d3b4546b5ad","width":"1/2"}],"id":"3f795eec-89ee-47fe-b9fd-161878b8ed04"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[],"id":"0f669a79-0e5a-4c9e-be19-8a3a906ca499","width":"1/2"},{"blocks":[],"id":"11ddd615-d187-4e90-9f67-0a256f9a6338","width":"1/2"}],"id":"2b8dd2d4-ab6f-4e46-8c2a-3bf300f771dd"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[],"id":"00bc0b04-adef-4091-8d9a-8571ab27ebe3","width":"1/2"},{"blocks":[],"id":"25ee8e15-793a-4bab-8daa-eab49f8e359b","width":"1/2"}],"id":"56b61dee-f316-4aff-9f70-bad7aba85080"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[],"id":"3087c082-1813-4144-a940-77e544339e57","width":"1/2"},{"blocks":[],"id":"e38ec077-001f-427d-9632-64e55e498b3f","width":"1/2"}],"id":"4233761d-c817-4f13-8575-4878f496542b"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[],"id":"b377fd56-2cc5-4b60-afc3-6163f8a55e31","width":"1/2"},{"blocks":[],"id":"563847c6-61b2-4c27-98d0-24143a85cc67","width":"1/2"}],"id":"b5d0aed1-7592-47fe-9a5e-e34ea3312fd0"}]
+
+----
+
+Projectcover: 
+
+----
+
+Projectprevtitle: 
+
+----
+
+Projectprevtext: 
+
+----
+
+Projectclient: 
+
+----
+
+Projectyear: 
+
+----
+
+Projectexternlink: 
+
+----
+
+Projecttags: 
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Projectcolor: 
+
+----
+
+Uuid: iODs3S58c7n77Gmx

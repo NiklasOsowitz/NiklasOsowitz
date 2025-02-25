@@ -1,0 +1,58 @@
+name: field.blocks.image.name
+icon: image
+preview: image
+fields:
+  location:
+    label: field.blocks.image.location
+    type: radio
+    columns: 2
+    default: "kirby"
+    options:
+      kirby: "{{ t('field.blocks.image.location.internal') }}"
+      web: "{{ t('field.blocks.image.location.external') }}"
+  image:
+    label: field.blocks.image.name
+    type: files
+    query: model.images
+    multiple: false
+    image:
+      back: black
+    uploads:
+      template: blocks/image
+    when:
+      location: kirby
+  src:
+    label: field.blocks.image.url
+    type: url
+    when:
+      location: web
+  alt:
+    label: field.blocks.image.alt
+    type: text
+    icon: title
+    width: 1/2
+  format:
+    label: Format
+    type: select
+    width: 1/2
+    options:
+      format-1-1: format-1-1
+      format-3-4: format-3-4
+      format-4-5: format-4-5
+      format-16-9: format-16-9
+      format-9-16: format-9-16
+      format-21-9: format-21-9
+      format-21-6: format-21-6
+  class:
+    label: Classes
+    type: text
+    width: 1/2
+  spacer:
+    label: Spacer
+    type: select
+    width: 1/2
+    options:
+      spacer-a: spacer-a
+      spacer-b: spacer-b
+      spacer-c: spacer-c
+      spacer-d: spacer-d

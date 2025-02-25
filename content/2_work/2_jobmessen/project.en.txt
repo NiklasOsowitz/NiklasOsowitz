@@ -1,0 +1,112 @@
+Title: Jobmessen
+
+----
+
+Projectoverview: [{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://zn5QH3wBuMds7R94"],"src":"","alt":"","format":"format-16-9","class":"roundness-a reveal-a","spacer":""},"id":"5cb10439-ea54-4067-9516-4562c4c5938f","isHidden":false,"type":"image"}],"id":"02030d7c-7a8f-4637-94cf-ab024ef0e8cf","width":"1/1"}],"id":"ea9a302d-ef58-49fc-ac32-69d1319ee8a7"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Entdecke deine Karriere / Discover your Carrier","class":"headline-2 typecolor-white reveal-a","spacer":"spacer-b"},"id":"b73be78e-bb1c-4298-b3c5-8c42f7c0ad72","isHidden":false,"type":"heading"},{"content":{"text":"<p>\"Discover your Carrier\" is the slogan of the new jobmesse deutschland tour campaign. Visualizing the engagement, interaction and dynamic of exhibitor and visitor on the job fair. The goal was to create a clean new concept for the Visual Identity. We positioned the jobmesse as the original and empowering job fair it claimed years ago.</p>","class":"paragraph-1 reveal-a","spacer":"spacer-a"},"id":"efdcb7c1-0c4c-4c52-bf87-7f7e5e11ee37","isHidden":false,"type":"text"},{"content":{"text":"<p>Visual concept for the jobmessen deutschland tour, a carrier event hosting at more than 20 locations in Germany. The concept is based on the 5 fundamental keywords: the original, progressive, connective, empowering, clean.</p>","class":"paragraph-1 reveal-a","spacer":""},"id":"73100681-18b1-491d-a8f5-2f8c034b8632","isHidden":false,"type":"text"}],"id":"5cb0d9dc-771a-48f2-ad3c-a009bfc2a0d3","width":"1/1"}],"id":"4c523f94-8b62-4399-aa6f-571185e025eb"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"class":"","spacer":""},"id":"d181182e-fe06-40d1-a5ba-6897c9bf1a53","isHidden":false,"type":"projectmeta"}],"id":"8c07de84-bece-47af-91cf-346aa2f2d820","width":"1/1"}],"id":"ebdf2bcb-04e2-47a6-a5a8-98ba003d367d"}]
+
+----
+
+Projectcontent: [{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://1cENdTleIz2LJGH9"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"b38ed20b-ab88-4458-87cb-2811ae923ce9","isHidden":false,"type":"image"}],"id":"cdbb0ce8-4bd3-49d7-a0e5-bfc67fba619f","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://8cOEBvfuAd6Pi2ZV"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"3e9f45d2-5953-42e6-a91c-649ecaab52cf","isHidden":false,"type":"image"}],"id":"e5d13057-8a52-43de-ae05-4d3b4546b5ad","width":"1/2"}],"id":"3f795eec-89ee-47fe-b9fd-161878b8ed04"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://DZZ6jC6ymjWNShGj"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"36a2ab6a-4156-4097-a388-6b29cd24fba8","isHidden":false,"type":"image"}],"id":"0f669a79-0e5a-4c9e-be19-8a3a906ca499","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://KUCyUJQB4jTeL3LF"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"e1f3406f-83a9-4cef-af83-bc17375c9cce","isHidden":false,"type":"image"}],"id":"11ddd615-d187-4e90-9f67-0a256f9a6338","width":"1/2"}],"id":"2b8dd2d4-ab6f-4e46-8c2a-3bf300f771dd"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://vBwVHLr8VXBH2Puk"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"7739269d-d4ff-4903-b280-05ae997152c6","isHidden":false,"type":"image"}],"id":"00bc0b04-adef-4091-8d9a-8571ab27ebe3","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://ZEsDpz836hO287jp"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"1b96f0f5-999b-411d-a9dd-4072554dae73","isHidden":false,"type":"image"}],"id":"25ee8e15-793a-4bab-8daa-eab49f8e359b","width":"1/2"}],"id":"56b61dee-f316-4aff-9f70-bad7aba85080"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://HAF4KB12PQSBt9ol"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"5094ee1c-fb45-4c7f-be3b-bc1542654fbf","isHidden":false,"type":"image"}],"id":"3087c082-1813-4144-a940-77e544339e57","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://8WyTGIXc4fOpp8f2"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"0c41a425-f84b-4cfd-833d-79db9551f4c0","isHidden":false,"type":"image"}],"id":"e38ec077-001f-427d-9632-64e55e498b3f","width":"1/2"}],"id":"4233761d-c817-4f13-8575-4878f496542b"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://7xKSaWUuitdLyWaJ"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"f6fc2fd5-918a-4420-905f-c60c317f51bd","isHidden":false,"type":"image"}],"id":"b377fd56-2cc5-4b60-afc3-6163f8a55e31","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://qJ5gGG9VzexHecLR"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"eb322fce-cac1-413a-9393-a4ac9b5c3054","isHidden":false,"type":"image"}],"id":"563847c6-61b2-4c27-98d0-24143a85cc67","width":"1/2"}],"id":"b5d0aed1-7592-47fe-9a5e-e34ea3312fd0"},{"attrs":{"class":"area-standard content-center","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"buttontype":"hyperlink","buttonurl":"https://www.behance.net/gallery/127722793/Jobmessen","buttonhref":"","buttonattributes":"target=\"_blank\"","buttontitle":"View this project on Behance","buttonstyle":"button-c","spacer":"","buttonicon":"arrowtopright","class":"hovereffect-a"},"id":"1814efad-e589-4c3b-b62f-5730ec0bb31f","isHidden":false,"type":"button"}],"id":"e9ca3815-ff83-4098-af2c-98617503801b","width":"1/1"}],"id":"408a7639-cd49-43a1-9ef5-72f5ad72c817"}]
+
+----
+
+Projectcover: - file://ECLTGx4SmxxVELvv
+
+----
+
+Projectprevtitle:
+
+Jobmessen
+Discover your Carrier
+
+----
+
+Projectprevtext: 
+
+----
+
+Projectclient: BARLAG messe- & werbeagentur
+
+----
+
+Projectyear: 2022
+
+----
+
+Projectexternlink: https://www.behance.net/gallery/127722793/Jobmessen
+
+----
+
+Projecttags: Creative Direction, Branding, Motion Design
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Projectcolor: 
+
+----
+
+Uuid: bEoCl5SueSojrGvk

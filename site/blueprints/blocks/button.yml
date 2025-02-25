@@ -1,0 +1,65 @@
+name: Button
+icon: url
+fields:
+  buttontype:
+    label: Button Type
+    type: radio
+    columns: 3
+    options:
+      hyperlink: 'hyperlink'
+      button: 'button'
+      expert: 'expert'
+    default: url
+  buttonurl:
+    label: Url
+    type: link
+    width: 1/1
+    when:
+      buttontype: hyperlink
+  buttonhref:
+    label: Href (Relative path; Anker possible)
+    type: text
+    width: 1/1
+    when:
+      buttontype: expert
+  buttonattributes:
+    label: Attributes
+    type: text
+    width: 1/1
+  lineA:
+    type: line
+  buttontitle:
+    label: Title
+    type: text
+  lineB:
+    type: line
+  buttonstyle:
+    label: Style
+    type: select
+    width: 1/2
+    options:
+      button-a: Button Forward (button-a)
+      button-b: Button Smart (button-b)
+      button-c: Button Small (button-c)
+  spacer:
+    label: Spacer
+    type: select
+    width: 1/2
+    options:
+      spacer-y: spacer-y
+      spacer-a: spacer-a
+      spacer-b: spacer-b
+      spacer-c: spacer-c
+      spacer-d: spacer-d
+  buttonicon:
+    label: Icon
+    type: select
+    width: 1/2
+    options:
+      arrowright: arrowright
+      arrowleft: arrowleft
+      arrowtopright: arrowtopright
+  class:
+    label: Classes
+    type: text
+    width: 1/1

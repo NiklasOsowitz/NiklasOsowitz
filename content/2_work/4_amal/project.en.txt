@@ -1,0 +1,109 @@
+Title: Amal
+
+----
+
+Projectoverview: [{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://euvWoHiqRnS9559m"],"src":"","alt":"","format":"format-16-9","class":"roundness-a reveal-a","spacer":""},"id":"5cb10439-ea54-4067-9516-4562c4c5938f","isHidden":false,"type":"image"}],"id":"02030d7c-7a8f-4637-94cf-ab024ef0e8cf","width":"1/1"}],"id":"ea9a302d-ef58-49fc-ac32-69d1319ee8a7"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Miteinander. Füreinander. / With Each Other. For Each Other.","class":"headline-2 typecolor-white reveal-a","spacer":"spacer-b"},"id":"b73be78e-bb1c-4298-b3c5-8c42f7c0ad72","isHidden":false,"type":"heading"},{"content":{"text":"","class":"paragraph-1 reveal-a","spacer":"spacer-a"},"id":"efdcb7c1-0c4c-4c52-bf87-7f7e5e11ee37","isHidden":false,"type":"text"}],"id":"5cb0d9dc-771a-48f2-ad3c-a009bfc2a0d3","width":"1/1"}],"id":"4c523f94-8b62-4399-aa6f-571185e025eb"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"class":"reveal-a","spacer":""},"id":"d181182e-fe06-40d1-a5ba-6897c9bf1a53","isHidden":false,"type":"projectmeta"}],"id":"8c07de84-bece-47af-91cf-346aa2f2d820","width":"1/1"}],"id":"ebdf2bcb-04e2-47a6-a5a8-98ba003d367d"}]
+
+----
+
+Projectcontent: [{"attrs":{"class":"area-wide","grid":"","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://WL06IrOnYX3tVXd5"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"b38ed20b-ab88-4458-87cb-2811ae923ce9","isHidden":false,"type":"image"}],"id":"aa892d18-4613-466f-8f3c-90ab28d13c9a","width":"1/1"}],"id":"ee5f4b06-71bc-4ee9-b243-0f1b4c367b47"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://dRhS8ugUOf3VaNVQ"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"36a2ab6a-4156-4097-a388-6b29cd24fba8","isHidden":false,"type":"image"}],"id":"0f669a79-0e5a-4c9e-be19-8a3a906ca499","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://XHCqq5FLoRWEwRWp"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"3e9f45d2-5953-42e6-a91c-649ecaab52cf","isHidden":false,"type":"image"}],"id":"11ddd615-d187-4e90-9f67-0a256f9a6338","width":"1/2"}],"id":"2b8dd2d4-ab6f-4e46-8c2a-3bf300f771dd"},{"attrs":{"class":"area-wide","grid":"area-grid-33 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://4U1zfNWulQTVTRJX"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"f6fc2fd5-918a-4420-905f-c60c317f51bd","isHidden":false,"type":"image"}],"id":"16f4d255-60ab-42f7-8297-b7361656d886","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://9UepSr93nl1uAgfC"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"2e3e8aad-0276-4b3b-b48e-708157ed6b57","isHidden":false,"type":"image"}],"id":"9e366786-70ca-4913-b265-a5ffc575fc53","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://ccLkR9YF4Rk44xve"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"8b7630bf-56c2-4685-9895-0119e4877c35","isHidden":false,"type":"image"}],"id":"c9a14352-02db-4dcd-9902-69407e2325d4","width":"1/3"}],"id":"f60f8b97-8ccb-4a5c-af50-d98ffde500a3"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://Qj8ql52pdlrTegUx"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"b92c590f-6993-47c5-995f-acda81ab7a2c","isHidden":false,"type":"image"}],"id":"15deacc5-6132-4c76-a59e-eefda8fea3e2","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://JXajB7VbUUBwytyP"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"8ff344c9-2416-44fc-ae0a-91f47933777c","isHidden":false,"type":"image"}],"id":"b3b54b35-3ad1-4adf-8edf-0196bb7ff81d","width":"1/2"}],"id":"2a0c2016-2258-4c7a-8d2e-0b3ee92f7127"},{"attrs":{"class":"area-wide","grid":"area-grid-33 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://M7JbXmbero8hz2C6"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"63583248-9eb3-47fc-ba5a-13602c27b127","isHidden":false,"type":"image"}],"id":"a7426155-e5ec-498f-962e-dd7d278d3a95","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://4MFh1KDfzVSpSYsj"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"eb322fce-cac1-413a-9393-a4ac9b5c3054","isHidden":false,"type":"image"}],"id":"00fa648f-084b-4ae4-b81b-5f06fdf6701e","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://iw5MtlmFcUoQ7sVc"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"6394043e-4ac1-45d8-a339-9a8078ac3576","isHidden":false,"type":"image"}],"id":"73537389-7deb-46f5-b6c3-570e8e625847","width":"1/3"}],"id":"2e703ead-4cc5-4718-80a1-bcfe550e2495"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://PmH2GeTDCV2t6nyT"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"7739269d-d4ff-4903-b280-05ae997152c6","isHidden":false,"type":"image"}],"id":"00bc0b04-adef-4091-8d9a-8571ab27ebe3","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://FjoJTZT6pbHDS21G"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"1b96f0f5-999b-411d-a9dd-4072554dae73","isHidden":false,"type":"image"}],"id":"25ee8e15-793a-4bab-8daa-eab49f8e359b","width":"1/2"}],"id":"56b61dee-f316-4aff-9f70-bad7aba85080"}]
+
+----
+
+Projectcover: - file://pSCvWuRnfARauIYV
+
+----
+
+Projectprevtitle: Amal e.V.
+
+----
+
+Projectprevtext: Amal Preview text
+
+----
+
+Projectclient: Amal e.V.
+
+----
+
+Projectyear: 2022
+
+----
+
+Projectexternlink: 
+
+----
+
+Projecttags: Creative Direction, Branding, Webdevelopment
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Projectcolor: 
+
+----
+
+Uuid: U9caNenI7scizIJ5

@@ -1,0 +1,35 @@
+name: Hover accordion
+icon: filter
+preview: items
+fields:
+  haccordionHeadline:
+    label: Headline (element)
+    type: text
+  haccordionItems:
+    label: Items
+    type: structure
+    fields:
+      haccordionItemHeadline:
+        label: Headline (item)
+        type: text
+      haccordionItemContent:
+        label: Text (item)
+        type: structure
+        fields:
+          itemtext:
+            inline: true
+            type: text
+  class:
+    label: Classes
+    type: text
+    width: 1/2
+  spacer:
+    label: Spacer
+    type: select
+    width: 1/2
+    options:
+      spacer-y: spacer-y
+      spacer-a: spacer-a
+      spacer-b: spacer-b
+      spacer-c: spacer-c
+      spacer-d: spacer-d

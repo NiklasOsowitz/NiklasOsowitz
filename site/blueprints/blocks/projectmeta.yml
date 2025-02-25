@@ -1,0 +1,15 @@
+name: Project meta
+icon: lab
+fields:
+  class:
+    label: Classes
+    type: text
+  spacer:
+      label: Spacer
+      type: select
+      width: 1/2
+      options:
+        spacer-a: spacer-a
+        spacer-b: spacer-b
+        spacer-c: spacer-c
+        spacer-d: spacer-d

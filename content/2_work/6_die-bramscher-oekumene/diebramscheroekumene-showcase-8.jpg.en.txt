@@ -1,0 +1,5 @@
+Uuid: fwdmDou18798FB9M
+
+----
+
+Template: blocks/image

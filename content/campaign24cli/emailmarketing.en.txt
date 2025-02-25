@@ -1,0 +1,85 @@
+Title: campaign24cli
+
+----
+
+Email: <div width="100px" height="100px" background-color="blue">Test</div>
+
+----
+
+Metatitle: Qualitatives Design und Marketing für dich! / Design & Code by NiklasOsowitz
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: false
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: false
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: false
+
+----
+
+Robotsfollow: false
+
+----
+
+Robotsarchive: false
+
+----
+
+Robotsimageindex: false
+
+----
+
+Robotssnippet: false
+
+----
+
+Metainherit: 
+
+----
+
+Content: 
+
+----
+
+Hello: 
+
+----
+
+Vision: 
+
+----
+
+Uuid: SfRsQe9GYKArkn1q

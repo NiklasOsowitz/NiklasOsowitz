@@ -1,0 +1,33 @@
+name: Gridbox
+icon: table
+preview: items
+fields:
+  header:
+    type: text
+  gridboxtype:
+    label: Gridbox type
+    type: select
+    width: 1/2
+    options:
+      gridbox-a: Gridbox Table (gridbox-a)
+      gridbox-b: Gridbox Column (gridbox-b)
+  items:
+    type: structure
+    fields:
+      itemtext:
+        inline: true
+        type: text
+  class:
+    label: Classes
+    type: text
+    width: 1/2
+  spacer:
+    label: Spacer
+    type: select
+    width: 1/2
+    options:
+      spacer-y: spacer-y
+      spacer-a: spacer-a
+      spacer-b: spacer-b
+      spacer-c: spacer-c
+      spacer-d: spacer-d

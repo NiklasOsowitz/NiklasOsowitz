@@ -1,0 +1,69 @@
+Title: Datenschutzrichtlinie
+
+----
+
+Privacypolicy: [{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Datenschutzerklärung","class":"headline-1","spacer":""},"id":"67eec8b7-e657-44b9-9e70-74f1e660cff9","isHidden":false,"type":"heading"}],"id":"cd6a52b7-be91-4f55-90be-22be5df7e0fd","width":"1/1"}],"id":"2eece6f8-35e2-4195-900a-ab1592eaaa66"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Einleitung","class":"headline-2","spacer":"spacer-a"},"id":"4d2f9908-5233-44ca-aac7-d8eb1e466aad","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ich bin verpflichtet, deine Privatsphäre zu schützen. Diese Datenschutzerklärung erklärt, wie ich Informationen über dich sammle, verwende und offenlege, wenn du meine Website besuchst. Durch die Nutzung meiner Website stimmst du den Bedingungen dieser Datenschutzerklärung zu.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"74dc8a38-304d-4850-ac0e-8f42106054e0","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":""},"id":"9df20f66-9003-49e8-a39a-4fb9a30829bd","isHidden":false,"type":"line"}],"id":"82b2ae8d-c281-429e-9aa3-8265d226621c","width":"1/1"}],"id":"02d29a52-2212-4e90-b64a-c48d25cdcece"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Informationen, die ich sammle","class":"headline-2","spacer":"spacer-a"},"id":"b644121f-ba8e-4673-808d-36d1def053eb","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ich respektiere deine Privatsphäre und nehme den Datenschutz ernst. Auf dieser Website sammle oder speichere ich keine personenbezogenen Daten meiner Nutzer.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"e87bea22-3965-4510-9e0f-f655a5f8fd84","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":""},"id":"fbcd6ebd-dee5-4662-a813-c67abbe73be6","isHidden":false,"type":"line"}],"id":"326f3a53-4ec2-4c58-83a7-0f014f202f90","width":"1/1"}],"id":"70bb6a9d-5a4d-4116-9e87-1cdcc8381467"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Eingebettete Inhalte von anderen Websites","class":"headline-2","spacer":"spacer-b"},"id":"29c8f838-d03f-43e9-8ac5-fc027fadea30","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Youtube","class":"headline-3","spacer":"spacer-a"},"id":"3ac0d1a5-ff8a-40fb-a1b5-6bdc6bf3092b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Wenn du ein auf meiner Website eingebettetes YouTube-Video ansiehst, kann YouTube Daten über dich sammeln, Cookies verwenden, zusätzliche Drittanbieter-Tracking einbetten und deine Interaktion mit den eingebetteten Inhalten überwachen, einschließlich der Nachverfolgung deiner Interaktion mit den eingebetteten Inhalten, wenn du ein Konto hast und bei YouTube angemeldet bist.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"aa94ec49-caac-4a14-af1b-cf338e9ce11e","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":""},"id":"28dc8511-bb32-4e87-8b91-872db072832f","isHidden":false,"type":"line"}],"id":"72282093-8bec-4ec6-b563-707a103124bc","width":"1/1"}],"id":"e2554d46-a431-430f-9050-a3296d9a697c"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Cookies","class":"headline-2","spacer":"spacer-a"},"id":"d7742fbb-8208-477a-9558-af4bdd56b857","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ich verwende ein Cookie, um deine Zustimmung zur Verwendung von Cookies zu speichern. Dieses Cookie speichert keine personenbezogenen Daten und wird nur verwendet, um sich an deinen Zustimmungsstatus zu erinnern.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"4215b024-c517-4dc9-a461-09fb2a0a30e2","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Verwaltung von Cookies","class":"headline-3","spacer":"spacer-a"},"id":"a1aeb99a-cb9f-40b6-908f-9e463b340803","isHidden":false,"type":"heading"},{"content":{"text":"<p>Du kannst Cookies nach Belieben kontrollieren und/oder löschen – nähere Informationen findest du auf <a href=\"https://www.aboutcookies.org/\" target=\"_blank\">aboutcookies.org</a>. Du kannst alle Cookies löschen, die bereits auf deinem Computer gespeichert sind, und du kannst die meisten Browser so einstellen, dass das Setzen von Cookies verhindert wird. Wenn du dies tust, musst du jedoch möglicherweise bei jedem Besuch einer Website einige Einstellungen manuell anpassen, und einige Dienste und Funktionen funktionieren möglicherweise nicht. Du kannst deine Präferenzen für diese Website auch in meinem Cookie-Menü anpassen.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"ab073be6-4369-47a2-9ccd-6f7aaa81c10e","isHidden":false,"type":"text"},{"content":{"buttontype":"button","buttonurl":"","buttonhref":"","buttonattributes":"data-cc=\"show-preferencesModal\" aria-haspopup=\"dialog\"","buttontitle":"Bearbeite deine Datenschutzeinstellungen","buttonstyle":"button-b","spacer":"spacer-c","buttonicon":"arrowright","class":"hovereffect-a"},"id":"5cb742ef-a387-4717-a02d-16e214666984","isHidden":false,"type":"button"},{"content":{"class":"line-a","spacer":""},"id":"38d922c2-e0e5-4aa2-bf1b-fb976ecd1155","isHidden":false,"type":"line"}],"id":"1d46d427-bfa3-4bb3-b52a-2cdef3772ca3","width":"1/1"}],"id":"1e9ef0e4-4fed-43b5-aec8-a7170ef9ed22"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Nutzung von Drittanbieterdiensten","class":"headline-2","spacer":"spacer-b"},"id":"0e1e6605-d69c-4c09-b90b-5ea675838224","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Google Fonts","class":"headline-3","spacer":"spacer-a"},"id":"6b948f2f-80dc-4144-899c-9329cdddb2d5","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ich verwende Google Fonts, um das Design meiner Website zu verbessern. Wenn du eine Seite auf meiner Website aufrufst, lädt dein Browser die erforderlichen Web-Schriftarten von den Google-Servern und zeigt sie an. Während dieses Prozesses kann deine IP-Adresse an die Google-Server gesendet werden. Weitere Informationen zu Google Fonts und den Datenpraktiken von Google findest du in den Google Fonts-FAQ und in der Google-Datenschutzerklärung.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"ce0b240b-0582-4fa7-a84f-71ba3244f3ac","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"jQuery-Bibliothek","class":"headline-3","spacer":"spacer-a"},"id":"87b7ac28-f617-4b5d-8c24-f9d5cb236fe6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Meine Website verwendet die jQuery-Bibliothek, eine schnelle, kleine und funktionsreiche JavaScript-Bibliothek. Sie vereinfacht Dinge wie HTML-Dokumentdurchlauf und -manipulation, Ereignisbehandlung und Animation. Die jQuery-Bibliothek wird von einem Drittanbieter-CDN (Content Delivery Network) geladen, das möglicherweise deine IP-Adresse und andere technische Details sammelt.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"040e34ae-c5a0-4cf6-97ea-46ba7f691d9b","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"GSAP-Bibliothek","class":"headline-3","spacer":"spacer-a"},"id":"9fa0d2c5-2df5-4bf4-8756-cba3c8d0c5b3","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ich nutze auch die GSAP (GreenSock Animation Platform) Bibliothek für Animationen auf meiner Website. Diese Bibliothek wird ebenfalls von einem Drittanbieter-CDN geladen, das möglicherweise deine IP-Adresse und andere technische Details sammelt.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"125b6590-b193-400f-8568-b14865726b29","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Swup-Bibliothek","class":"headline-3","spacer":"spacer-a"},"id":"10c6b506-cbca-49ea-bd98-e655965b130d","isHidden":false,"type":"heading"},{"content":{"text":"<p>Meine Website verwendet die Swup-Bibliothek, um nahtlose Seitenübergänge zu ermöglichen. Swup verbessert das Benutzererlebnis, indem es ein reibungsloses und schnelles Laden von Seiten ohne vollständige Seitenaktualisierung ermöglicht. Diese Bibliothek wird von einem Drittanbieter-CDN geladen, das möglicherweise deine IP-Adresse und andere technische Details sammelt.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"b348abc0-d0c9-4ba7-801f-4b03b8353870","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":""},"id":"40a4dc21-5087-4a48-aecf-507c5a05e2d2","isHidden":false,"type":"line"}],"id":"2fa1778d-1a8c-4ab5-8635-78d284d706c8","width":"1/1"}],"id":"0a9c2ac6-fcfc-46e8-ae22-824a4d792770"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Datensicherheit","class":"headline-2","spacer":"spacer-a"},"id":"45efa395-598a-4659-9def-80fed11019b2","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ich setze geeignete technische und organisatorische Maßnahmen ein, um deine Daten vor unbefugtem Zugriff, Offenlegung, Veränderung oder Zerstörung zu schützen. Bitte beachte jedoch, dass keine Internetübertragung jemals vollständig sicher oder fehlerfrei ist.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"b4185325-f7c3-4827-957d-d349f2655919","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":""},"id":"97472ca1-9d88-4329-9138-afe52123f692","isHidden":false,"type":"line"}],"id":"308efcc4-f4d1-440c-a9b9-7c0c78f9c282","width":"1/1"}],"id":"4ea1d2b4-ff7f-46f6-b705-f76f9bce2d04"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Änderungen dieser Datenschutzerklärung","class":"headline-2","spacer":"spacer-a"},"id":"29c9d853-ba62-4588-8fd1-e5f85f8180e4","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ich behalte mir vor, diese Datenschutzerklärung von Zeit zu Zeit zu aktualisieren. Wenn ich Änderungen vornehme, werde ich die aktualisierte Richtlinie auf dieser Website veröffentlichen und das Datum des Inkrafttretens der Richtlinie aktualisieren. Ich empfehle dir, die Datenschutzerklärung regelmäßig zu überprüfen, um auf dem Laufenden darüber zu bleiben, wie ich deine Informationen schütze.</p><p>Wenn du Fragen zu dieser Datenschutzerklärung hast, <a href=\"mailto:niklas@ultralightbeam.studio\">kontaktiere mich</a> bitte.</p>","class":"paragraph-1","spacer":"spacer-a"},"id":"abda2fb3-dd00-423d-ac8c-fb2b99509edd","isHidden":false,"type":"text"},{"content":{"text":"<p>Gültigkeitsdatum: 01. Juli 2024<br>Durch die Nutzung meiner Website bestätigst du, dass du diese Datenschutzerklärung gelesen und verstanden hast.</p>","class":"paragraph-1","spacer":""},"id":"7b12cef9-2357-4c71-b200-f76a7c3fbe0a","isHidden":false,"type":"text"}],"id":"121394aa-d2de-4bc4-9b9d-6ccc60da568e","width":"1/1"}],"id":"0b710280-c1cd-4f31-9bfe-efbedad96b04"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: false
+
+----
+
+Robotsfollow: false
+
+----
+
+Robotsarchive: false
+
+----
+
+Robotsimageindex: false
+
+----
+
+Robotssnippet: false
+
+----
+
+Metainherit: 

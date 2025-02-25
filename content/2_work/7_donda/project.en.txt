@@ -1,0 +1,112 @@
+Title: DONDA
+
+----
+
+Projectoverview: [{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://poKYbhg4EgyTsmt5"],"src":"","alt":"","format":"format-16-9","class":"roundness-a reveal-a","spacer":""},"id":"5cb10439-ea54-4067-9516-4562c4c5938f","isHidden":false,"type":"image"}],"id":"02030d7c-7a8f-4637-94cf-ab024ef0e8cf","width":"1/1"}],"id":"ea9a302d-ef58-49fc-ac32-69d1319ee8a7"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"DONDA - Kanye West","class":"headline-2 typecolor-white reveal-a","spacer":"spacer-b"},"id":"b73be78e-bb1c-4298-b3c5-8c42f7c0ad72","isHidden":false,"type":"heading"},{"content":{"text":"<p>The 10th Studio Album of Kanye West came with a simple black cover. I made a visual identity for the Donda-Project, inspired by the visuals of the listening events, the merchandise, billboards and old Donda-Covers. The main theme is the \"all-black-everything\"-theme combined with the storytelling of the live listening events. To catch the vibe I listened to the music the whole process long.</p>","class":"paragraph-1 reveal-a","spacer":""},"id":"efdcb7c1-0c4c-4c52-bf87-7f7e5e11ee37","isHidden":false,"type":"text"}],"id":"5cb0d9dc-771a-48f2-ad3c-a009bfc2a0d3","width":"1/1"}],"id":"4c523f94-8b62-4399-aa6f-571185e025eb"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"class":"reveal-a","spacer":""},"id":"d181182e-fe06-40d1-a5ba-6897c9bf1a53","isHidden":false,"type":"projectmeta"}],"id":"8c07de84-bece-47af-91cf-346aa2f2d820","width":"1/1"}],"id":"ebdf2bcb-04e2-47a6-a5a8-98ba003d367d"}]
+
+----
+
+Projectcontent: [{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ONl5ZsS6hoVfysOY"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"b38ed20b-ab88-4458-87cb-2811ae923ce9","isHidden":false,"type":"image"}],"id":"cdbb0ce8-4bd3-49d7-a0e5-bfc67fba619f","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://e49WyOt1inImEt7d"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"3e9f45d2-5953-42e6-a91c-649ecaab52cf","isHidden":false,"type":"image"}],"id":"e5d13057-8a52-43de-ae05-4d3b4546b5ad","width":"1/2"}],"id":"3f795eec-89ee-47fe-b9fd-161878b8ed04"},{"attrs":{"class":"area-wide","grid":"area-grid-33 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://MzbNj0yP9beIE63w"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"67a09669-71a4-4a81-a629-723b71cd1f25","isHidden":false,"type":"image"}],"id":"2b79cafa-f3bc-4714-ac0a-fbf3c09458bd","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://jdWepQ4x741r3dfM"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"57b44262-db11-4d54-b54c-2aefe2608d1b","isHidden":false,"type":"image"}],"id":"b0a365e5-571c-4503-a6d2-b26cbf9cb4f4","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://4rwJEWPEifwcmLmR"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"bd88aef2-bf90-4289-9c53-49ed1bf35497","isHidden":false,"type":"image"}],"id":"00ab594f-6348-4f8e-a211-9174a47f0610","width":"1/3"}],"id":"5fcc445e-5a34-49d9-adbe-aafe8d594bfc"},{"attrs":{"class":"area-wide","grid":"","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://G7wotRE7LRku3SaR"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"7739269d-d4ff-4903-b280-05ae997152c6","isHidden":false,"type":"image"}],"id":"7915e063-616d-4adb-a4d7-2e553a884923","width":"1/1"}],"id":"6723efe1-4d79-467e-8c65-5f0a9353ba98"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://z6L7LhxbqSj2YY3m"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"22bae2dc-33e5-407e-a7d0-003e9116c45a","isHidden":false,"type":"image"}],"id":"7d15e2cd-2197-45ac-aad6-95eae83d289a","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://27qlqnPlLVYDmyrv"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"9967d6c3-b9d1-4331-9834-d4e9addea05a","isHidden":false,"type":"image"}],"id":"c7c1ca5b-ad68-4f19-a96c-3643e8747ccc","width":"1/2"}],"id":"c4b6f7a3-8a8f-4ec9-ac5a-c14d3aa83914"},{"attrs":{"class":"area-standard content-center","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"buttontype":"hyperlink","buttonurl":"https://www.behance.net/gallery/126485125/DONDA","buttonhref":"","buttonattributes":"target=\"_blank\"","buttontitle":"View this project on Behance","buttonstyle":"button-c","spacer":"","buttonicon":"arrowtopright","class":"hovereffect-a"},"id":"f04e1f41-71bc-48f7-b7f9-39d6332607d2","isHidden":false,"type":"button"}],"id":"32072408-3391-4171-9e33-2c6799276aac","width":"1/1"}],"id":"a2f5b1b7-e044-4f10-92a8-1f5b53b02b45"}]
+
+----
+
+Projectcover: - file://ulLv438U9rkMsBCz
+
+----
+
+Projectprevtitle:
+
+Kanye West
+presents DONDA
+
+----
+
+Projectprevtext: The 10th Studio Album of Kanye West came with a simple black cover. I made a visual identity for the Donda-Project, inspired by the visuals of the listening events, the merchandise, billboards and old Donda-Covers.
+
+----
+
+Projectclient: 
+
+----
+
+Projectyear: 2021
+
+----
+
+Projectexternlink: https://www.behance.net/gallery/126485125/DONDA
+
+----
+
+Projecttags: Artwork
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Projectcolor: 
+
+----
+
+Uuid: J0MJwxttokTpfLPP

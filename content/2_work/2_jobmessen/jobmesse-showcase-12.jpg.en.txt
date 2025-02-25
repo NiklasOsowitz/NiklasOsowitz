@@ -1,0 +1,5 @@
+Uuid: HAF4KB12PQSBt9ol
+
+----
+
+Template: blocks/image

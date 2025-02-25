@@ -1,0 +1,148 @@
+title: Project
+
+tabs:
+  contentproject:
+    label: Content
+    icon: layers
+    columns:
+      main:
+        width: 2/3
+        sections:
+          content:
+            type: fields
+            fields:
+              headlineA:
+                label: Content
+                type: headline
+              projectoverview:
+                label: Privacy policy
+                type: layout
+                layouts:
+                  - "1/1"
+                  - "1/2, 1/2"
+                  - "1/3, 1/3, 1/3"
+                  - "1/4, 1/4, 1/4, 1/4"
+                fieldsets:
+                  text:
+                    label: Text
+                    type: group
+                    fieldsets:
+                      - heading
+                      - text
+                      - list
+                      - table
+                      - line
+                  interactive:
+                    label: Interactive
+                    type: group
+                    fieldsets:
+                      - button
+                      - gridbox
+                      - projectmeta
+                      - area-projects-teaser
+                      - area-hoveraccordion
+                  media:
+                    label: Media
+                    type: group
+                    fieldsets:
+                      - image
+                      - video
+                settings:
+                  extends: fields/settings
+              lineA:
+                type: line
+              projectcontent:
+                label: Privacy policy
+                type: layout
+                layouts:
+                  - "1/1"
+                  - "1/2, 1/2"
+                  - "1/3, 1/3, 1/3"
+                  - "1/4, 1/4, 1/4, 1/4"
+                fieldsets:
+                  text:
+                    label: Text
+                    type: group
+                    fieldsets:
+                      - heading
+                      - text
+                      - list
+                      - table
+                      - line
+                  interactive:
+                    label: Interactive
+                    type: group
+                    fieldsets:
+                      - button
+                      - gridbox
+                      - projectmeta
+                      - area-projects-teaser
+                      - area-hoveraccordion
+                  media:
+                    label: Media
+                    type: group
+                    fieldsets:
+                      - image
+                      - video
+                settings:
+                  extends: fields/settings
+      sidebar:
+        width: 1/3
+        sections:
+          meta:
+            type: fields
+            fields:
+              headlineB:
+                label: Meta
+                type: headline
+              projectcover:
+                label: Cover Image
+                type: files
+                multiple: false
+                layout: cards
+                cover: true
+                max: 1
+                extension: png, jpg
+              projectprevtitle:
+                label: Preview title
+                type: textarea
+                placeholder: Preview title
+                buttons: false
+              projectprevtext:
+                label: Preview text
+                type: textarea
+                placeholder: Preview text
+                buttons: false
+              projectclient:
+                label: Client
+                type: text
+              projectyear:
+                label: Year
+                type: text
+              projectexternlink:
+                label: External link
+                type: url
+              projecttags:
+                label: Tags
+                type: tags
+                options:
+                  - Creative Direction
+                  - Branding
+                  - Motion Design
+                  - Webdevelopment
+                  - Artwork
+                  - Photography
+  filesproject:
+    label: Files
+    icon: images
+    columns:
+      left:
+        width: 1/2
+        sections:
+          files:
+            label: Files
+            type: files
+            layout: cards
+            cover: true
+            extension: png, jpg, mp4,
+  seo: seo/page

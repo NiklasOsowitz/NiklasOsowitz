@@ -1,0 +1,81 @@
+Title: Work
+
+----
+
+Work: [{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","url":"","video":["file://rtxAWHCyegH3QzwV"],"poster":[],"autoplay":"true","muted":"true","loop":"true","controls":"false","preload":"auto","class":"video-full reveal-a"},"id":"d0985b8a-ef5e-4db6-a09d-9f87f0b04853","isHidden":false,"type":"video"}],"id":"7d35dc40-5357-4b7b-b04d-591e9edd22ce","width":"1/1"}],"id":"ab19749a-8392-4b76-b20f-8b993705eb93"},{"attrs":{"class":"area-wide tile-d content-center","grid":"","spacer":"spacer-b","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Intuition in aesthetic <br>forms experience.","class":"headline-1 reveal-a","spacer":""},"id":"2da0b3d3-567a-435f-af19-bcf997de0435","isHidden":false,"type":"heading"}],"id":"8020cd4f-e453-4dc9-be46-3b9d1046bb59","width":"1/1"}],"id":"45b42d78-4b0b-4859-a0c0-7bfd4e5743e3"},{"attrs":{"class":"area-wide tile-d content-center","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"text":"<p>Modern design is not about simplifying and streamlining every component to the rawest. I aspire to build intuitive visuals to form aesthetic solutions and communicate great experiences.</p>","class":"paragraph-1 reveal-a","spacer":""},"id":"000e3e2a-840e-4aab-b5a9-7689056fe2bd","isHidden":false,"type":"text"}],"id":"fd11bc97-edcc-4f1f-81de-d8df100be18b","width":"1/1"}],"id":"9ca36838-991c-49a7-8881-89263ba3ac25"}]
+
+----
+
+Theprocess: [{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Services","class":"headline-3","spacer":"spacer-b"},"id":"95e11874-086e-4c36-804e-3d7a45e8e8af","isHidden":false,"type":"heading"},{"content":{"haccordionheadline":"","haccordionitems":[{"haccordionitemheadline":"Creative Direction","haccordionitemcontent":[{"itemtext":"Communication concepts"},{"itemtext":"Cross-media storytelling"},{"itemtext":"Campaign concept development"},{"itemtext":"Creative advisory"},{"itemtext":"Market positioning and differentiation strategies"},{"itemtext":"Integrated brand and content strategies"},{"itemtext":"Brand and creative leadership training"},{"itemtext":"Creativity and ideation workshops"}]},{"haccordionitemheadline":"Branding","haccordionitemcontent":[{"itemtext":"Editorial & writing"},{"itemtext":"Copywriting for brand narratives"},{"itemtext":"SEO-optimized content creation"},{"itemtext":"Brand identity design"},{"itemtext":"Graphic design"}]},{"haccordionitemheadline":"Marketing","haccordionitemcontent":[{"itemtext":"Social Media marketing"},{"itemtext":"Community management"},{"itemtext":"Campaign planning & coordination"},{"itemtext":"Multi-channel campaign development"},{"itemtext":"Reporting & analyses"},{"itemtext":"Analytics and KPI reporting"}]},{"haccordionitemheadline":"Webdevelopment","haccordionitemcontent":[{"itemtext":"User Experience research & design"},{"itemtext":"User Interface design"},{"itemtext":"Frontend Development"},{"itemtext":"Backend Development"}]},{"haccordionitemheadline":"Video & Animations","haccordionitemcontent":[{"itemtext":"Motion design"},{"itemtext":"Concept development & storyboarding"},{"itemtext":"Video editing"},{"itemtext":"Color correction"}]},{"haccordionitemheadline":"Photography","haccordionitemcontent":[{"itemtext":"Event photography"},{"itemtext":"Commercial photography"},{"itemtext":"Corporate photography"},{"itemtext":"Post-Production & retouching"}]}],"class":"","spacer":""},"id":"24cab654-b726-4e3f-82d8-a2975af05cd4","isHidden":false,"type":"area-hoveraccordion"}],"id":"1524139f-04d5-4a73-b0ea-64bbc18991c4","width":"1/1"}],"id":"5452d118-e1ff-4585-976d-113399a0d2ce"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Related: 
+
+----
+
+Uuid: NscZl4F6HtToRz1X

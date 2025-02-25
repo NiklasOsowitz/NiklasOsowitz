@@ -1,0 +1,106 @@
+title: Work
+
+tabs:
+  pageswork:
+    label: Pages
+    icon: menu
+    columns:
+      left:
+        width: 1/2
+        sections:
+          pages:
+            type: pages
+            layout: cards
+            image: false
+  contentwork:
+    label: Content
+    icon: layers
+    columns:
+      left:
+        width: 1/1
+        sections:
+          content:
+            type: fields
+            fields:
+              work:
+                label: Work section
+                type: layout
+                layouts:
+                  - "1/1"
+                  - "1/2, 1/2"
+                  - "1/3, 1/3, 1/3"
+                  - "1/4, 1/4, 1/4, 1/4"
+                fieldsets:
+                  text:
+                    label: Text
+                    type: group
+                    fieldsets:
+                      - heading
+                      - text
+                      - list
+                      - table
+                      - line
+                  interactive:
+                    label: Interactive
+                    type: group
+                    fieldsets:
+                      - button
+                      - gridbox
+                      - area-projects-teaser
+                      - area-hoveraccordion
+                  media:
+                    label: Media
+                    type: group
+                    fieldsets:
+                      - image
+                      - video
+                settings:
+                  extends: fields/settings
+              theprocess:
+                label: The process section
+                type: layout
+                layouts:
+                  - "1/1"
+                  - "1/2, 1/2"
+                  - "1/3, 1/3, 1/3"
+                  - "1/4, 1/4, 1/4, 1/4"
+                fieldsets:
+                  text:
+                    label: Text
+                    type: group
+                    fieldsets:
+                      - heading
+                      - text
+                      - list
+                      - table
+                      - line
+                  interactive:
+                    label: Interactive
+                    type: group
+                    fieldsets:
+                      - button
+                      - gridbox
+                      - area-projects-teaser
+                      - area-hoveraccordion
+                  media:
+                    label: Media
+                    type: group
+                    fieldsets:
+                      - image
+                      - video
+                settings:
+                  extends: fields/settings
+  fileswork:
+    label: Files
+    icon: images
+    columns:
+      left:
+        width: 1/2
+        sections:
+          files:
+            label: Files
+            type: files
+            layout: cards
+            cover: true
+            extension: png, jpg, mp4,
+  seo: seo/page

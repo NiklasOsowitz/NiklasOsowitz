@@ -1,0 +1,5 @@
+Uuid: iATH32TuI77RoOas
+
+----
+
+Template: blocks/image

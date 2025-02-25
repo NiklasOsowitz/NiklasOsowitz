@@ -1,0 +1,5 @@
+Uuid: CabCXHCZfSPMnhlT
+
+----
+
+Template: blocks/image

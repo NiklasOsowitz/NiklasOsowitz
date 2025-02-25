@@ -1,0 +1,73 @@
+Title: Privacy policy
+
+----
+
+Privacypolicy: [{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Privacy Policy","class":"headline-1","spacer":""},"id":"67eec8b7-e657-44b9-9e70-74f1e660cff9","isHidden":false,"type":"heading"}],"id":"cd6a52b7-be91-4f55-90be-22be5df7e0fd","width":"1/1"}],"id":"2eece6f8-35e2-4195-900a-ab1592eaaa66"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Introduction","class":"headline-2","spacer":"spacer-a"},"id":"4d2f9908-5233-44ca-aac7-d8eb1e466aad","isHidden":false,"type":"heading"},{"content":{"text":"<p>I am committed to protecting your privacy. This Privacy Policy explains how I collect, use, and disclose information about you when you visit my website. By using my site, you agree to the terms of this Privacy Policy.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"74dc8a38-304d-4850-ac0e-8f42106054e0","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":""},"id":"9df20f66-9003-49e8-a39a-4fb9a30829bd","isHidden":false,"type":"line"}],"id":"82b2ae8d-c281-429e-9aa3-8265d226621c","width":"1/1"}],"id":"02d29a52-2212-4e90-b64a-c48d25cdcece"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Information I Collect","class":"headline-2","spacer":"spacer-a"},"id":"b644121f-ba8e-4673-808d-36d1def053eb","isHidden":false,"type":"heading"},{"content":{"text":"<p>I respect your privacy and take data protection seriously. On this website, I do not collect or store any personal data from my users.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"e87bea22-3965-4510-9e0f-f655a5f8fd84","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":""},"id":"fbcd6ebd-dee5-4662-a813-c67abbe73be6","isHidden":false,"type":"line"}],"id":"326f3a53-4ec2-4c58-83a7-0f014f202f90","width":"1/1"}],"id":"70bb6a9d-5a4d-4116-9e87-1cdcc8381467"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Embedded Content from Other Websites","class":"headline-2","spacer":"spacer-b"},"id":"29c8f838-d03f-43e9-8ac5-fc027fadea30","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Youtube","class":"headline-3","spacer":"spacer-a"},"id":"3ac0d1a5-ff8a-40fb-a1b5-6bdc6bf3092b","isHidden":false,"type":"heading"},{"content":{"text":"<p>When you view a YouTube video embedded on my site, YouTube may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with the embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to YouTube.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"aa94ec49-caac-4a14-af1b-cf338e9ce11e","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":""},"id":"28dc8511-bb32-4e87-8b91-872db072832f","isHidden":false,"type":"line"}],"id":"72282093-8bec-4ec6-b563-707a103124bc","width":"1/1"}],"id":"e2554d46-a431-430f-9050-a3296d9a697c"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Cookies","class":"headline-2","spacer":"spacer-a"},"id":"d7742fbb-8208-477a-9558-af4bdd56b857","isHidden":false,"type":"heading"},{"content":{"text":"<p>I use a cookie to store your acceptance of my use of cookies. This cookie does not store any personal data and is only used to remember your consent status.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"4215b024-c517-4dc9-a461-09fb2a0a30e2","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Managing Cookies","class":"headline-3","spacer":"spacer-a"},"id":"a1aeb99a-cb9f-40b6-908f-9e463b340803","isHidden":false,"type":"heading"},{"content":{"text":"<p>You can control and/or delete cookies as you wish – for details, see <a href=\"https://www.aboutcookies.org/\" target=\"_blank\">aboutcookies.org</a>. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work. You can also edit your preferences for this site in my cookie menu.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"ab073be6-4369-47a2-9ccd-6f7aaa81c10e","isHidden":false,"type":"text"},{"content":{"buttontype":"button","buttonurl":"","buttonhref":"","buttonattributes":"data-cc=\"show-preferencesModal\" aria-haspopup=\"dialog\"","buttontitle":"Edit privacy preferences","buttonstyle":"button-b","spacer":"spacer-c","buttonicon":"arrowright","class":"hovereffect-a"},"id":"5cb742ef-a387-4717-a02d-16e214666984","isHidden":false,"type":"button"},{"content":{"class":"line-a","spacer":""},"id":"38d922c2-e0e5-4aa2-bf1b-fb976ecd1155","isHidden":false,"type":"line"}],"id":"1d46d427-bfa3-4bb3-b52a-2cdef3772ca3","width":"1/1"}],"id":"1e9ef0e4-4fed-43b5-aec8-a7170ef9ed22"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Use of Third-Party Services","class":"headline-2","spacer":"spacer-b"},"id":"0e1e6605-d69c-4c09-b90b-5ea675838224","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Google Fonts","class":"headline-3","spacer":"spacer-a"},"id":"6b948f2f-80dc-4144-899c-9329cdddb2d5","isHidden":false,"type":"heading"},{"content":{"text":"<p>I use Google Fonts to enhance the design of my website. When you access a page on my site, your browser loads the required web fonts from Google’s servers and displays them. During this process, your IP address may be sent to Google servers. For more information about Google Fonts and Google’s data practices, please visit Google Fonts FAQ and Google Privacy Policy.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"ce0b240b-0582-4fa7-a84f-71ba3244f3ac","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"jQuery Library","class":"headline-3","spacer":"spacer-a"},"id":"87b7ac28-f617-4b5d-8c24-f9d5cb236fe6","isHidden":false,"type":"heading"},{"content":{"text":"<p>My website uses the jQuery library, which is a fast, small, and feature-rich JavaScript library. It simplifies things like HTML document traversal and manipulation, event handling, and animation. The jQuery library is loaded from a third-party CDN (Content Delivery Network), which may collect your IP address and other technical details.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"040e34ae-c5a0-4cf6-97ea-46ba7f691d9b","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"GSAP Library","class":"headline-3","spacer":"spacer-a"},"id":"9fa0d2c5-2df5-4bf4-8756-cba3c8d0c5b3","isHidden":false,"type":"heading"},{"content":{"text":"<p>I also utilize the GSAP (GreenSock Animation Platform) library for animations on my website. This library is also loaded from a third-party CDN, which may collect your IP address and other technical details.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"125b6590-b193-400f-8568-b14865726b29","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Swup Library","class":"headline-3","spacer":"spacer-a"},"id":"10c6b506-cbca-49ea-bd98-e655965b130d","isHidden":false,"type":"heading"},{"content":{"text":"<p>My website uses the Swup library to enable seamless page transitions. Swup enhances the user experience by enabling smooth and quick page loading without full page refreshes. This library is loaded from a third-party CDN, which may collect your IP address and other technical details.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"b348abc0-d0c9-4ba7-801f-4b03b8353870","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":""},"id":"40a4dc21-5087-4a48-aecf-507c5a05e2d2","isHidden":false,"type":"line"}],"id":"2fa1778d-1a8c-4ab5-8635-78d284d706c8","width":"1/1"}],"id":"0a9c2ac6-fcfc-46e8-ae22-824a4d792770"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Data Security","class":"headline-2","spacer":"spacer-a"},"id":"45efa395-598a-4659-9def-80fed11019b2","isHidden":false,"type":"heading"},{"content":{"text":"<p>I implement appropriate technical and organizational measures to protect your data from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no internet transmission is ever completely secure or error-free.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"b4185325-f7c3-4827-957d-d349f2655919","isHidden":false,"type":"text"},{"content":{"class":"line-a","spacer":""},"id":"97472ca1-9d88-4329-9138-afe52123f692","isHidden":false,"type":"line"}],"id":"308efcc4-f4d1-440c-a9b9-7c0c78f9c282","width":"1/1"}],"id":"4ea1d2b4-ff7f-46f6-b705-f76f9bce2d04"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Changes to this Privacy Policy","class":"headline-2","spacer":"spacer-a"},"id":"29c9d853-ba62-4588-8fd1-e5f85f8180e4","isHidden":false,"type":"heading"},{"content":{"text":"<p>I may update this Privacy Policy from time to time. When I make changes, I will post the updated policy on this website and update the policy's effective date. I encourage you to review the Privacy Policy periodically to stay informed about how I am protecting your information.</p><p>If you have any questions about this Privacy Policy, please <a href=\"mailto:niklas@ultralightbeam.studio\">contact me</a>.</p>","class":"paragraph-1","spacer":"spacer-a"},"id":"abda2fb3-dd00-423d-ac8c-fb2b99509edd","isHidden":false,"type":"text"},{"content":{"text":"<p>Effective Date: July 01, 2024<br>By using our site, you acknowledge that you have read and understand this Privacy Policy.</p>","class":"paragraph-1","spacer":""},"id":"7b12cef9-2357-4c71-b200-f76a7c3fbe0a","isHidden":false,"type":"text"}],"id":"121394aa-d2de-4bc4-9b9d-6ccc60da568e","width":"1/1"}],"id":"0b710280-c1cd-4f31-9bfe-efbedad96b04"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: false
+
+----
+
+Robotsfollow: false
+
+----
+
+Robotsarchive: false
+
+----
+
+Robotsimageindex: false
+
+----
+
+Robotssnippet: false
+
+----
+
+Metainherit: 
+
+----
+
+Uuid: fxotf3fMmvBc5Rft

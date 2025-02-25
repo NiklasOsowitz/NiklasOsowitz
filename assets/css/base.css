@@ -1,0 +1,194 @@
+/* Colors */
+
+:root {
+    --black: #020202;
+    --white: #FFFFFF;
+    /* Flow */
+    --flow-a: #5909F0;
+    --flow-b: #9CA3AF;
+    --flow-c: #E1E5EE;
+    --energize-a: #FAFF70;
+    /* Shimmer */
+    --shimmer-a: #A0C6BB;
+    --shimmer-b: #788483;
+    --shimmer-c: #444e4F;
+    --shimmer-d: #B2C1C8;
+    /* Dark */
+    --dim-a: #161616;
+    --dim-b: #1F1F1F;
+    --dim-c: #363638;
+    --dim-d: #93979A;
+    /* Light */
+    --shine-a: #F3F4F6;
+    --shine-b: #DCDCE0;
+    --shine-c: #CDCDD2;
+    /* Roundness */
+    --roundness-a: 1rem;
+    --roundness-b: 1.5rem;
+    /* Scrollbar */
+    --scrollbarwidth: 0em;
+    /* Menu button */
+    --menubuttonwidth: 3.75rem;
+    --menubuttonwidthhalf: calc(var(--menubuttonwidth) / 2);
+    /* Line */
+    --line-a: 0.15rem;
+    --line-b: 0.15rem;
+    --line-c: 0.15rem;
+    /* Transition */
+    --ttiming-a: ease;
+    --tduration-a: 300ms;
+    --ttiming-b: cubic-bezier(.13,.53,.38,.97);
+    --tduration-b: 500ms;
+    --ttiming-c: cubic-bezier(.13,.53,.38,.97);
+    --tduration-c: 500ms;
+}
+
+/* Settings */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: calc(100dvw - var(--scrollbarwidth));
+    margin: 0rem;
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.6;
+    color: var(--dim-a);
+    background-color: var(--white);
+    overflow-y: scroll;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    transition: all;
+    transition-timing-function: var(--ttiming-b);
+    transition-duration: var(--tduration-b);
+}
+
+#content {
+    scroll-behavior: smooth;
+}
+
+img {
+    pointer-events: none;
+}
+
+.roundness-a {
+    border-radius: var(--roundness-a);
+}
+
+.roundness-b {
+    border-radius: var(--roundness-b);
+}
+
+/* Buttons */
+
+button {
+    margin: unset;
+    padding: unset;
+    border: unset;
+    background-color: unset;
+    cursor: none;
+    font-size: unset;
+    font-weight: unset;
+}
+
+/* Icons */
+
+.icons {
+    fill: none;
+    stroke: var(--dim-a);
+    stroke-width: 100px;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+    width: var(--scrollbarwidth);
+    background-color: var(--dim-d);
+}
+
+::-webkit-scrollbar-track {
+    background-color: unset;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--dim-c);
+}
+
+/* Selection */
+
+::selection {
+    background: var(--energize-a);
+    color: var(--dim-a);
+  }
+  
+::-moz-selection {
+    background: var(--energize-a);
+    color: var(--dim-a);
+}
+
+/* Responsive */
+
+@media only screen and (min-width: 768px) {
+    :root {
+        /* Roundness */
+        --roundness-a: 1rem;
+        --roundness-b: 3rem;
+        /* Scrollbar */
+        --scrollbarwidth: 0.5em;
+        /* Line */
+        --line-a: 0.13rem;
+        --line-b: 0.05rem;
+        --line-c: 0.25rem;
+    }
+
+    /* Settings */
+
+    body {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    :root {
+        /* Roundness */
+        --roundness-a: 1rem;
+        --roundness-b: 3rem;
+        /* Scrollbar */
+        --scrollbarwidth: 0.5em;
+        /* Line */
+        --line-a: 0.13rem;
+        --line-b: 0.05rem;
+        --line-c: 0.25rem;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    :root {
+        /* Roundness */
+        --roundness-a: 1rem;
+        --roundness-b: 3rem;
+        /* Scrollbar */
+        --scrollbarwidth: 0.5em;
+        /* Line */
+        --line-a: 0.13rem;
+        --line-b: 0.05rem;
+        --line-c: 0.25rem;
+    }
+}
+
+@media only screen and (min-width: 1921px) {
+    :root {
+        /* Roundness */
+        --roundness-a: 1rem;
+        --roundness-b: 3rem;
+        /* Scrollbar */
+        --scrollbarwidth: 0.5em;
+        /* Line */
+        --line-a: 0.13rem;
+        --line-b: 0.05rem;
+        --line-c: 0.25rem;
+    }
+}

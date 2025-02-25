@@ -1,0 +1,17 @@
+name: field.blocks.line.name
+icon: divider
+preview: line
+wysiwyg: true
+fields:
+  class:
+    label: Classes
+    type: text
+  spacer:
+      label: Spacer
+      type: select
+      width: 1/2
+      options:
+        spacer-a: spacer-a
+        spacer-b: spacer-b
+        spacer-c: spacer-c
+        spacer-d: spacer-d

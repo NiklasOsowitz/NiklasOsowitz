@@ -1,0 +1,109 @@
+Title: Die Bramscher Ökumene
+
+----
+
+Projectoverview: [{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://FBf6K3zt5bvIci7o"],"src":"","alt":"","format":"format-16-9","class":"roundness-a reveal-a","spacer":""},"id":"5cb10439-ea54-4067-9516-4562c4c5938f","isHidden":false,"type":"image"}],"id":"02030d7c-7a8f-4637-94cf-ab024ef0e8cf","width":"1/1"}],"id":"ea9a302d-ef58-49fc-ac32-69d1319ee8a7"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Die Bramscher Ökumene","class":"headline-2 typecolor-white reveal-a","spacer":"spacer-b"},"id":"b73be78e-bb1c-4298-b3c5-8c42f7c0ad72","isHidden":false,"type":"heading"},{"content":{"text":"<p>\"Die Bramscher Ökumene\" is a union of different churches of the city of Bramsche. The goal was to create a friendly, barrier-free, interactive Visual Identity, that visualizes the unity of the different denominations and the process of coming together / evolving the community.</p>","class":"paragraph-1 reveal-a","spacer":"spacer-a"},"id":"efdcb7c1-0c4c-4c52-bf87-7f7e5e11ee37","isHidden":false,"type":"text"},{"content":{"text":"<p>The key aspects of this project is it's colours and the elements that connects to a pattern, constructed by rules, which visualizes society / community. The logo is a simplification of the coat of arms (a rose / Die Bramscher Rose) of the city with a cross in it.</p>","class":"paragraph-1 reveal-a","spacer":""},"id":"73100681-18b1-491d-a8f5-2f8c034b8632","isHidden":false,"type":"text"}],"id":"5cb0d9dc-771a-48f2-ad3c-a009bfc2a0d3","width":"1/1"}],"id":"4c523f94-8b62-4399-aa6f-571185e025eb"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"class":"reveal-a","spacer":""},"id":"d181182e-fe06-40d1-a5ba-6897c9bf1a53","isHidden":false,"type":"projectmeta"}],"id":"8c07de84-bece-47af-91cf-346aa2f2d820","width":"1/1"}],"id":"ebdf2bcb-04e2-47a6-a5a8-98ba003d367d"}]
+
+----
+
+Projectcontent: [{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://fVy8TkBecthDKQQp"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"b38ed20b-ab88-4458-87cb-2811ae923ce9","isHidden":false,"type":"image"}],"id":"cdbb0ce8-4bd3-49d7-a0e5-bfc67fba619f","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://QT8WqRYiFaB09n7E"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"3e9f45d2-5953-42e6-a91c-649ecaab52cf","isHidden":false,"type":"image"}],"id":"e5d13057-8a52-43de-ae05-4d3b4546b5ad","width":"1/2"}],"id":"3f795eec-89ee-47fe-b9fd-161878b8ed04"},{"attrs":{"class":"area-wide","grid":"area-grid-33 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://WMvyxQKapcG54HHU"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"36a2ab6a-4156-4097-a388-6b29cd24fba8","isHidden":false,"type":"image"}],"id":"dfc8f733-7bda-43ca-bcec-d96aab4e54df","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://EzKM2CEinXIibe6E"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"e1f3406f-83a9-4cef-af83-bc17375c9cce","isHidden":false,"type":"image"}],"id":"9a0e6c60-3815-45b8-bdcf-b86aae342f67","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://NmnVN6PPxUgajsCd"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"d1781d74-2c54-40f6-be3a-0400c2288725","isHidden":false,"type":"image"}],"id":"54ac1ed5-5f20-4c70-8fc9-a717f0810a7d","width":"1/3"}],"id":"1032976a-1caf-4da8-be5e-1b238a2129f0"},{"attrs":{"class":"area-wide","grid":"","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://fwdmDou18798FB9M"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"7739269d-d4ff-4903-b280-05ae997152c6","isHidden":false,"type":"image"}],"id":"3cc89c37-8241-4f60-841a-9cab18775dba","width":"1/1"}],"id":"26bd3453-8a80-444a-bc75-66d704872bff"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://rLNYyY1HGFrE4sFi"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"1b96f0f5-999b-411d-a9dd-4072554dae73","isHidden":false,"type":"image"}],"id":"aa64db5f-e3c0-4c11-88a2-df3f9bd1158e","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://d0isbIzDP5siQfEJ"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"c0250b2f-8d69-44e2-83ec-31e9f01cf0f6","isHidden":false,"type":"image"}],"id":"7129262a-6126-42f3-acb5-5cba82954e2a","width":"1/2"}],"id":"9a65c5d0-9e43-4c81-ac22-dc171f077047"},{"attrs":{"class":"area-wide","grid":"area-grid-33 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://IDWYGBfU4cci6mPE"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"5094ee1c-fb45-4c7f-be3b-bc1542654fbf","isHidden":false,"type":"image"}],"id":"b6be445e-b698-47d7-b114-25139df59c14","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://H4mgEZFC0tDI0Ted"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"0c41a425-f84b-4cfd-833d-79db9551f4c0","isHidden":false,"type":"image"}],"id":"22f67146-0b83-462f-bdec-ecdc2cb5bf63","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://W12pw18jHeNkI8OJ"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"7fb7ac43-8196-4887-a5ab-8de2ef180d41","isHidden":false,"type":"image"}],"id":"f10c802e-7a12-4bed-9a8f-ce5958be45e2","width":"1/3"}],"id":"497a10b2-9606-4509-8249-37aee6fcdb49"},{"attrs":{"class":"area-wide","grid":"","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://r1llcBmM2IlUZ4Uz"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"1cfd6fbd-bc84-405e-b0fe-a3abd0812877","isHidden":false,"type":"image"}],"id":"e4111808-2e6e-4d67-881e-891fc6403512","width":"1/1"}],"id":"6c92bef4-a0ad-4d8e-98ba-c382cec2bb55"},{"attrs":{"class":"area-wide","grid":"area-grid-33 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://NagsBh2sVVURkfqr"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"ab9ad1fe-d8ce-4a6c-905d-09e669ec53ac","isHidden":false,"type":"image"}],"id":"2bd5b84d-418e-451c-a739-efd70e400add","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://QPN2HF8pJmymjUaD"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"23b55738-3af8-4de4-90c5-de8ce29dd746","isHidden":false,"type":"image"}],"id":"4fd102b0-7f34-414d-81b3-2bde535e30ee","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://Oy0lmoI8S1qDdS4a"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"b3190cb9-0b83-4cdc-87ad-644cb9140857","isHidden":false,"type":"image"}],"id":"41ad03b1-544c-48e6-af2d-5c028b536111","width":"1/3"}],"id":"b45aa84c-744c-49e5-a561-282a9e0bdde8"},{"attrs":{"class":"area-wide","grid":"area-grid-33 gap-a","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://tDCLoeO7Eej6RtSp"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"7944c97e-793f-40e4-8e21-b926a2fc326e","isHidden":false,"type":"image"}],"id":"dfe50494-877c-4784-8c37-b2ed807e8f7f","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://DcFnTDG2wQ7sErDy"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"34063e76-099e-49a3-9535-bab53fa55b2d","isHidden":false,"type":"image"}],"id":"5ec3b526-e290-4f5d-894e-76a0e067e2e0","width":"1/3"},{"blocks":[{"content":{"location":"kirby","image":["file://b0qVakJRLPhig5N5"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"bab5d0a7-62ec-410d-ba73-154b38a7c637","isHidden":false,"type":"image"}],"id":"07dbbc4c-d9d9-4532-8bbf-d6eb76eb6116","width":"1/3"}],"id":"aeabfab0-cffe-4457-9a9b-154354809173"},{"attrs":{"class":"","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"buttontype":"hyperlink","buttonurl":"https://www.behance.net/gallery/126856183/Die-Bramscher-OEkumene","buttonhref":"","buttonattributes":"target=\"_blank\"","buttontitle":"View this project on Behance","buttonstyle":"button-c","spacer":"","buttonicon":"arrowtopright","class":"hovereffect-a"},"id":"de97fdaa-280b-40ae-a08a-828d6adb4206","isHidden":false,"type":"button"}],"id":"ca7584a6-e654-4ad8-a1d1-dfadf17b9ea6","width":"1/1"}],"id":"18a3aadd-7f9a-4321-8a31-6a3157cdedc9"}]
+
+----
+
+Projectcover: - file://a8STj0huW26gEba9
+
+----
+
+Projectprevtitle: Die Bramscher Ökumene
+
+----
+
+Projectprevtext: "Die Bramscher Ökumene" is a union of different churches of the city of Bramsche.
+
+----
+
+Projectclient: Die Bramscher Ökumene
+
+----
+
+Projectyear: 2021
+
+----
+
+Projectexternlink: https://www.behance.net/gallery/126856183/Die-Bramscher-OEkumene
+
+----
+
+Projecttags: Creative Direction, Branding, Webdevelopment
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Projectcolor: 
+
+----
+
+Uuid: 1Tq8r42biyAyU2Bi

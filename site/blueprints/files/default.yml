@@ -1,0 +1,12 @@
+title: Default Page
+
+columns:
+  main:
+    width: 1
+    sections:
+      fields:
+        type: fields
+        fields:
+          alttext:
+            type: text
+            label: Alt Text

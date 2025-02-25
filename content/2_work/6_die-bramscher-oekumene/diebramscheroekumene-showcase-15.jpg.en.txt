@@ -1,0 +1,5 @@
+Uuid: NagsBh2sVVURkfqr
+
+----
+
+Template: blocks/image

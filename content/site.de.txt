@@ -1,0 +1,253 @@
+Name: Niklas Osowitz
+
+----
+
+Subline1: Creative Director / Webentwickler & Digital Artist
+
+----
+
+Subline2:
+
+Creative Director
+/ Webentwickler
+& Digital Artist
+
+----
+
+Subline3: Design aus Hamburg
+
+----
+
+Creatortag: Code & Design von Niklas Osowitz
+
+----
+
+Scrolldowntitle: Scroll
+
+----
+
+Contacttitle: Kontakt
+
+----
+
+Phonetitle: Telefon
+
+----
+
+Phone: 04058969784
+
+----
+
+Emailtitle: E-Mail
+
+----
+
+Email: niklas@ultralightbeam.studio
+
+----
+
+Adress:
+
+Harburger Chaussee 63
+20539 Hamburg
+Deutschland
+
+----
+
+Contactfield1title: Behance
+
+----
+
+Contactfield1url: https://www.behance.net/niklasosowitz
+
+----
+
+Contactfield1subtitle: @niklasosowitz
+
+----
+
+Contactfield1text: Entdecke mein Designportfolio auf Behance.
+
+----
+
+Contactfield2title: Instagram
+
+----
+
+Contactfield2url: https://www.instagram.com/niklas_osowitz/
+
+----
+
+Contactfield2subtitle: @niklas_osowitz
+
+----
+
+Contactfield3title: Letterboxd
+
+----
+
+Contactfield3url: https://letterboxd.com/niklasosowitz/
+
+----
+
+Contactfield3subtitle: @niklasosowitz
+
+----
+
+Contactfield4title: Ultralightbeam
+
+----
+
+Contactfield4url: https://www.ultralightbeam.studio/
+
+----
+
+Contactfield4subtitle: 
+
+----
+
+Contactfield4text: Netzwerkbasiertes kooperatives Kreativ-Studio.
+
+----
+
+Contactfield5title: 
+
+----
+
+Contactfield5url: 
+
+----
+
+Contactfield5subtitle: 
+
+----
+
+Contactfield6title: 
+
+----
+
+Contactfield6url: 
+
+----
+
+Contactfield6subtitle: 
+
+----
+
+Aboutteasertitle: Mehr über mich
+
+----
+
+Aboutteaserabouttitle: Über Niklas
+
+----
+
+Contactteasertitle: Idee sucht Umsetzung?
+
+----
+
+Contactteasersubtitle: Lass uns über deine Ideen reden und großartige Projekte gestalten.
+
+----
+
+Contactteaserbuttontext: Kontaktiere mich
+
+----
+
+Bannerstatus: true
+
+----
+
+Banner: Ich bin noch für Projekte im November und Dezember verfügbar. Kontaktiere mich noch heute, um dein Projekt schnell zu starten.
+
+----
+
+Bannertype: attribute
+
+----
+
+Bannerlink: #about-teaser
+
+----
+
+Bannerattributes: onclick="toggleCon()"
+
+----
+
+Preloaderstatus: true
+
+----
+
+Metatemplate: Niklas Osowitz: Creative Director / Developer & Digital Artist
+
+----
+
+Metadescription: Aspiring to build immersive visualsfor communicating great experiences. Services: Creative Direction, Branding, Marketing, Webdevelopment, Video & Animation, Photography
+
+----
+
+Ogtemplate: Niklas Osowitz: Creative Director / Developer & Digital Artist
+
+----
+
+Ogdescription: Aspiring to build immersive visualsfor communicating great experiences. Services: Creative Direction, Branding, Marketing, Webdevelopment, Video & Animation, Photography
+
+----
+
+Ogsitename: Niklas Osowitz: Creative Director / Developer & Digital Artist
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: summary
+
+----
+
+Robotsindex: true
+
+----
+
+Robotsfollow: true
+
+----
+
+Robotsarchive: true
+
+----
+
+Robotsimageindex: true
+
+----
+
+Robotssnippet: true
+
+----
+
+Socialmediaaccounts: 
+
+----
+
+Buttontype: attribute
+
+----
+
+Buttonattributes: onclick="toggleCon()"
+
+----
+
+Contactfield1: 
+
+----
+
+Contactfield2: 
+
+----
+
+Contactfield3: 
+
+----
+
+Contactfield4: 

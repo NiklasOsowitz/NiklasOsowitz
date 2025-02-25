@@ -1,0 +1,92 @@
+Title: Über mich
+
+----
+
+Profile: [{"attrs":{"class":"area-standard tile-d","grid":"","spacer":"spacer-b","padding":""},"columns":[{"blocks":[{"content":{"text":"<p>Meine Arbeit besteht nicht daraus Elemente zu gestalten;</p>","class":"headline-2","spacer":"spacer-a"},"id":"5738cf16-22e9-4fab-bc66-dc7457c2cad9","isHidden":false,"type":"text"}],"id":"1eafd833-3fd3-4235-8ab9-f9e17d4060cd","width":"1/1"}],"id":"3007c14b-55a2-435d-a7a8-42509e9de769"},{"attrs":{"class":"area-standard tile-d content-center","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"text":"<p>es geht darum ein System zu programmieren, das Kommunikation durch Design transportiert.</p>","class":"headline-2 typecolor-dim-a","spacer":"spacer-a"},"id":"c0a52cd9-9fb6-4061-80ea-b2c3dbee8361","isHidden":false,"type":"text"}],"id":"3e3756a2-b50a-4aa6-9643-5af2694d42cf","width":"1/1"}],"id":"397bbeeb-8959-44df-a91c-e4367108665b"},{"attrs":{"class":"area-standard vislayer-a theme-light","grid":"","spacer":"","padding":"tile-padding-d"},"columns":[{"blocks":[{"content":{"level":"h1","text":"Profil","class":"headline-2","spacer":"spacer-b"},"id":"a4e63434-ddde-4405-8ce7-fac0743932e1","isHidden":false,"type":"heading"},{"content":{"text":"<p>Niklas Osowitz ist ein Creative Director, Webentwickler &amp; Digital Artist, der sich darauf spezialisiert hat, intuitive Lösungen zu schaffen und neue Wege der visuellen Kommunikation zu entwickeln. Niklas arbeitet in den Bereichen Branding, Webentwicklung, Motion Design, Visual Identities und ist Gründer des netzwerkbasierten Ultralightbeam Studios, einem kreativen Kollektiv für Full Service Marketing und Branding. Er wurde 1998 in Osnabrück geboren und begann seine Karriere vor zehn Jahren als Webentwickler für kleine Unternehmen.</p>","class":"paragraph-1","spacer":"spacer-a"},"id":"2d6fe8f6-7c21-421e-a36c-234aadb98ffb","isHidden":false,"type":"text"},{"content":{"text":"<p>Seitdem hat er in vielen Positionen in Werbeagenturen, Marketingabteilungen und als Freiberufler erfolgreich gearbeitet. Diese Vielfalt an Projekten mit unterschiedlichen Schwerpunkten, Größen, Budgets, mehrsprachig und mit verschiedenen Branchen schafft ein einzigartiges Verständnis für die Umsetzung innovativer und nachhaltiger Lösungen. Fast zehn Jahre Erfahrung und Expertise im digitalen Bereich, insbesondere im Projektmanagement und in der kreativen Leitung, ermöglichen ein gutes Verständnis für organisatorische Belange und die Entwicklung von hochwertigen Lösungen.</p>","class":"paragraph-1","spacer":""},"id":"3053a878-5708-495c-a0c2-efa70a250957","isHidden":false,"type":"text"}],"id":"e1e482c5-6ef1-4983-8a1a-9635f0b1949a","width":"1/1"}],"id":"07ab16d7-89e7-42dc-abe7-843dbe88160b"}]
+
+----
+
+Intrests: [{"attrs":{"class":"area-standard vislayer-a","grid":"area-grid-50 textcolumn-50","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Einflüsse","class":"headline-2 typecolor-dim-a","spacer":"spacer-b"},"id":"bc4b60ad-7a2c-4ca1-a5e4-6f5627a68039","isHidden":false,"type":"heading"},{"content":{"text":"<p>Mein eigener Anspruch ist es, mich mit den weltweit führenden Agenturen zu messen. Meine Ideen und Erkenntnisse entwickeln sich durch die Analyse dieser Agenturen und ihrer Projekte. Meine größte Inspiration kommt jedoch immer aus der Musik, dem Kino und der Kunst.</p>","class":"paragraph-1","spacer":"spacer-b"},"id":"9daf9d31-ad02-43c5-a99d-6b97aadf2bea","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://a4DKZS2PnU6lGQHr"],"src":"","alt":"","format":"format-16-9","class":"","spacer":"spacer-b"},"id":"69e59485-5e00-4b90-a362-f16d0389313a","isHidden":false,"type":"image"},{"content":{"level":"h3","text":"<strong>Drei Gründe dafür das Kunst Design inspiriert.</strong>","class":"paragraph-1","spacer":"spacer-a"},"id":"382aaaa9-6f4a-4c75-b9da-cb741e0eb503","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Besonders Vinyl und Gemälde haben eine taktile Qualität, einen rohen Charakter, der uns heutzutage eine seltene Erfahrung bietet. Meine Priorität ist es, bei allen Arten von Design einen Realitätssinn, ein unverwechselbares Gefühl zu erreichen.</li><li>Kunst hat eine konzeptionelle Ebene. Rembrandt war wahrscheinlich der erste Creative Director der Geschichte. Die unverwechselbare Auswahl von Elementen, die eine Geschichte in einem einzigen Bild darstellen, ist die wichtigste Fähigkeit für gute Kommunikation.</li><li>Die Palette der Ausdrucksmöglichkeiten ist breiter als das, was wir in unserer stromlinienförmigen, kapitalistischen Umgebung kennen. Wir können mehr Charakter und Gedanken in Projekte einbringen, um eine menschliche Verbindung herzustellen.</li></ul>","listtype":"list-a","class":"paragraph-1","spacer":"spacer-b"},"id":"132b1aaf-7000-4a6b-b1de-93ada89d0abe","isHidden":false,"type":"list"},{"content":{"level":"h4","text":"<strong>Hieraus ziehe ich meine Inspiration:</strong>","class":"paragraph-1","spacer":"spacer-a"},"id":"ded936d7-a594-41ba-9911-e9d0b3217242","isHidden":false,"type":"heading"},{"content":{"buttontype":"hyperlink","buttonurl":"https://boxd.it/GYsp","buttonhref":"","buttonattributes":"target=\"_blank\"","buttontitle":"Sieh dir mein Letterboxd-Profil an","buttonstyle":"button-c","spacer":"spacer-y","buttonicon":"arrowtopright","class":"hovereffect-a"},"id":"32e9c8a1-6b33-464d-963d-59a6e9a93b9a","isHidden":false,"type":"button"},{"content":{"buttontype":"hyperlink","buttonurl":"https://music.apple.com/de/playlist/inspiration-to-playlist/pl.u-DdANxE3IqZD6Yd?l=en","buttonhref":"","buttonattributes":"target=\"_blank\"","buttontitle":"Höre in meine Playlist rein","buttonstyle":"button-c","spacer":"","buttonicon":"arrowtopright","class":"hovereffect-a"},"id":"c1d9f0db-2c49-4a5a-a105-77893ceeb656","isHidden":false,"type":"button"}],"id":"ae8e85ca-04b0-4ea7-9fd6-582f7c14cc63","width":"1/2"},{"blocks":[{"content":{"level":"h2","text":"Expertise","class":"headline-2 typecolor-dim-a","spacer":"spacer-b"},"id":"5e5f1054-870c-4348-871a-bb2369f135c1","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ich habe bereits in vielen Designsektoren mit unterschiedlichen Projekten in vielen Branchen gearbeitet. Immer mit dem Ziel, eine Strategie, einen unverwechselbaren Charakter und ein benutzerfreundliches Verhalten zu finden und alles zu einem ganzheitlichen und einzigartigen Ergebnis zu bringen. Die verschiedenen Erfahrungen vergangener Projekte helfen mir, neue Perspektiven zu finden und diese miteinander zu verbinden.</p>","class":"paragraph-1","spacer":"spacer-c"},"id":"bdcde9cf-2898-4dcf-bdac-b60fc11109c1","isHidden":false,"type":"text"},{"content":{"class":"line-b width-a","spacer":"spacer-c"},"id":"6da6bc05-7f60-458e-a50d-bd698931f1cf","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"Fähigkeiten","class":"headline-3 typecolor-dim-a","spacer":"spacer-b"},"id":"7aa19a36-6a12-47cd-a482-408f9ae37031","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Creative Direction:</strong> Brand-Identity-Design, Organisation und Management</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"ae836025-e600-45f4-a364-e2324e7d3298","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Strategie &amp; Marketing:</strong> Editorial-Guidance, Kampagnen-Management &amp; Planung, Targeting- &amp; Kommunikation-Workshops, Social Media Marketing, Google Ads Marketing</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"ee81bb69-699e-4c04-b213-9e9c990ebdef","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Webdesign:</strong> User-Experience-Research (User-Persona-Analysen, Empathy-Mapping, User-Flow-Analysen, Customer-Journey-Analysen, User-Interviews, Usability-Testing), Interaction-Design, Wireframing &amp; Prototyping, Designsysteme, User-Interface-Design - mit Adobe XD und Figma</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"6d378610-891d-485c-beb5-4a98bd89914d","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Frontend-Entwicklung</strong> - mit HTML, CSS, JavaScript, Bootstrap, Tailwind</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"4624b031-9f43-402e-848d-eff5f26ce9d3","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Fullstack-Entwicklung</strong> - mit <a href=\"https://getkirby.com/\" target=\"_blank\" title=\"Kirby\">Kirby</a>, <a href=\"https://wordpress.com/de/\" target=\"_blank\">Wordpress</a>, <a href=\"https://typo3.org/\" target=\"_blank\">Typo3</a>, <a href=\"https://webflow.com/\" target=\"_blank\">Webflow</a>, GitHub</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"2b49f425-4be9-4950-8249-d5c04aa50205","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Grafikdesign:</strong> Visual-Identity-Design, Branding/Logodesign, Kampagnen- und Einzellösungen - mit Adobe Illustrator, Adobe InDesign</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"c78b37cc-0165-4eac-8796-94cf1f585364","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Video:</strong> Motiondesign, Videoaufnahme, Videoschnitt, Farbkorrektur - mit DaVinci Resolve, Adobe Premiere, and Adobe After Effects</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"612405f4-f5f7-48ea-b111-242f534d4689","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Photographie:</strong> Produktphotographie, Markenphotographie - mit Lightroom, Photoshop, Sony A7</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"42f20cd6-fcbd-40fb-80f6-89621b81ddc0","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>AI</strong>: Prompting - mit OpenAI, Firefly, Sensei</p>","class":"paragraph-2","spacer":"spacer-a"},"id":"524464e0-d972-4ad3-8dc2-3b3f8454295f","isHidden":false,"type":"text"}],"id":"c86ab144-67b9-42de-8c44-d93792efb9f2","width":"1/2"}],"id":"e3d279dd-586f-478f-b160-5cc288e093b0"}]
+
+----
+
+Values: 
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Expertise: 
+
+----
+
+Influences: 
+
+----
+
+Files:
+
+- file://scQEfFOAKh7b0x3u
+- file://3vfMWLgicn73T1et

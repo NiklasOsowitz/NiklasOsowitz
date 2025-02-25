@@ -1,0 +1,26 @@
+fields:
+  class:
+    label: Classes
+    type: text
+  grid:
+    label: Grid settings
+    type: text
+  spacer:
+    label: Spacer
+    type: select
+    width: 1/2
+    options:
+      spacer-y: spacer-y
+      spacer-a: spacer-a
+      spacer-b: spacer-b
+      spacer-c: spacer-c
+      spacer-d: spacer-d
+  padding:
+    label: Padding
+    type: select
+    width: 1/2
+    options:
+      tile-padding-a: tile-padding-a
+      tile-padding-b: tile-padding-b
+      tile-padding-c: tile-padding-c
+      tile-padding-d: tile-padding-d

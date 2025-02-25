@@ -1,0 +1,112 @@
+Title: Asgard Ravens
+
+----
+
+Projectoverview: [{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://CabCXHCZfSPMnhlT"],"src":"","alt":"","format":"format-16-9","class":"roundness-a reveal-a","spacer":""},"id":"5cb10439-ea54-4067-9516-4562c4c5938f","isHidden":false,"type":"image"}],"id":"02030d7c-7a8f-4637-94cf-ab024ef0e8cf","width":"1/1"}],"id":"ea9a302d-ef58-49fc-ac32-69d1319ee8a7"},{"attrs":{"class":"area-standard","grid":"","spacer":"spacer-c","padding":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Byte back.","class":"headline-2 typecolor-white reveal-a","spacer":"spacer-b"},"id":"b73be78e-bb1c-4298-b3c5-8c42f7c0ad72","isHidden":false,"type":"heading"},{"content":{"text":"<p>Asgard Ravens is a semi-professional competetive e-sports organization, founded in 2019. The goal was to seperate the visual identity and style super hard from the \"classic gaming brand\". Our inspiration came from the Brutalism style of architecture and a Cyber-Punk elements. The focus of the visuals are on the morphing and loud typefaces.</p>","class":"paragraph-1 reveal-a","spacer":"spacer-a"},"id":"efdcb7c1-0c4c-4c52-bf87-7f7e5e11ee37","isHidden":false,"type":"text"}],"id":"5cb0d9dc-771a-48f2-ad3c-a009bfc2a0d3","width":"1/1"}],"id":"4c523f94-8b62-4399-aa6f-571185e025eb"},{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"class":"reveal-a","spacer":""},"id":"d181182e-fe06-40d1-a5ba-6897c9bf1a53","isHidden":false,"type":"projectmeta"}],"id":"8c07de84-bece-47af-91cf-346aa2f2d820","width":"1/1"}],"id":"ebdf2bcb-04e2-47a6-a5a8-98ba003d367d"}]
+
+----
+
+Projectcontent: [{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://U6QiYEGC6U3WN6kR"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"b38ed20b-ab88-4458-87cb-2811ae923ce9","isHidden":false,"type":"image"}],"id":"cdbb0ce8-4bd3-49d7-a0e5-bfc67fba619f","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://y5nO9jr0b341CcKB"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"3e9f45d2-5953-42e6-a91c-649ecaab52cf","isHidden":false,"type":"image"}],"id":"e5d13057-8a52-43de-ae05-4d3b4546b5ad","width":"1/2"}],"id":"3f795eec-89ee-47fe-b9fd-161878b8ed04"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://BMAM1RkFK0C9895C"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"36a2ab6a-4156-4097-a388-6b29cd24fba8","isHidden":false,"type":"image"}],"id":"0f669a79-0e5a-4c9e-be19-8a3a906ca499","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://YBIunvNWo9JzS7xh"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"e1f3406f-83a9-4cef-af83-bc17375c9cce","isHidden":false,"type":"image"}],"id":"11ddd615-d187-4e90-9f67-0a256f9a6338","width":"1/2"}],"id":"2b8dd2d4-ab6f-4e46-8c2a-3bf300f771dd"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://iATH32TuI77RoOas"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"1b96f0f5-999b-411d-a9dd-4072554dae73","isHidden":false,"type":"image"}],"id":"00bc0b04-adef-4091-8d9a-8571ab27ebe3","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://dC1hLi30XDKHHolK"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"eb322fce-cac1-413a-9393-a4ac9b5c3054","isHidden":false,"type":"image"}],"id":"25ee8e15-793a-4bab-8daa-eab49f8e359b","width":"1/2"}],"id":"56b61dee-f316-4aff-9f70-bad7aba85080"},{"attrs":{"class":"area-wide","grid":"area-grid-25 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://MFhZOeF082WNFWDG"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"7739269d-d4ff-4903-b280-05ae997152c6","isHidden":false,"type":"image"}],"id":"c4e623b4-f1ce-4e51-813e-c955b1fdfdae","width":"1/4"},{"blocks":[{"content":{"location":"kirby","image":["file://TVkijIptt1Yd5EYV"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"f6fc2fd5-918a-4420-905f-c60c317f51bd","isHidden":false,"type":"image"}],"id":"3ecb1fbc-4881-4e95-bba7-68968bcbac01","width":"1/4"},{"blocks":[{"content":{"location":"kirby","image":["file://kesIVZEyFJCXB1FJ"],"src":"","alt":"","format":"","class":"","spacer":""},"id":"75856d4d-040e-455a-8387-50516e0f34cc","isHidden":false,"type":"image"}],"id":"5851728e-38ab-46ce-8d6c-5f9100bccbfd","width":"1/4"},{"blocks":[{"content":{"location":"kirby","image":["file://zNLGjhvHlDowuegj"],"src":"","alt":"","format":"format-1-1","class":"","spacer":""},"id":"078e41f2-74aa-45e8-9e98-a6ac62a67f60","isHidden":false,"type":"image"}],"id":"1cd9d570-b1f2-4e23-955d-ed2cc214af73","width":"1/4"}],"id":"683572ef-5d6e-4fb1-b2cb-607e4b17e638"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-y","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://Cw2uaLEsR8O0biZN"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"5094ee1c-fb45-4c7f-be3b-bc1542654fbf","isHidden":false,"type":"image"}],"id":"3087c082-1813-4144-a940-77e544339e57","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://xMBoD0P6GsiTPAsw"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"0c41a425-f84b-4cfd-833d-79db9551f4c0","isHidden":false,"type":"image"}],"id":"e38ec077-001f-427d-9632-64e55e498b3f","width":"1/2"}],"id":"4233761d-c817-4f13-8575-4878f496542b"},{"attrs":{"class":"area-wide","grid":"area-grid-50 gap-a","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://KkR1sKZjQTo9XXNU"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"08bb9488-a3fb-4b70-b025-cf987436361e","isHidden":false,"type":"image"}],"id":"ec3fb2d1-64cb-4b58-96bc-80a4ae7fe7b9","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://N2lDBdu1sihR0q0N"],"src":"","alt":"","format":"format-16-9","class":"","spacer":""},"id":"6cc66fd6-dc85-4a68-8019-89fc69ec1da6","isHidden":false,"type":"image"}],"id":"19a2c43c-9a28-4029-afad-9d23ce3de81c","width":"1/2"}],"id":"99ec0c53-a3c6-4bd5-921c-4f1266b6511f"},{"attrs":{"class":"","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"buttontype":"hyperlink","buttonurl":"https://www.behance.net/gallery/120744467/Asgard-Ravens","buttonhref":"","buttonattributes":"target=\"_blank\"","buttontitle":"View this project on Behance","buttonstyle":"button-c","spacer":"","buttonicon":"arrowtopright","class":"hovereffect-a"},"id":"74dbf467-cd1f-4655-9ef9-afdfd8aa572b","isHidden":false,"type":"button"}],"id":"637c064d-35b3-4522-98b7-7731ee5f31e9","width":"1/1"}],"id":"f0294fed-2c23-4427-a85c-8c70c413fc47"}]
+
+----
+
+Projectcover: - file://Sbx1PED8xyCmDBrH
+
+----
+
+Projectprevtitle:
+
+Asgard Ravens
+Campaign 2022
+
+----
+
+Projectprevtext: Asgard Ravens is a semi-professional competetive e-sports organization, founded in 2019.
+
+----
+
+Projectclient: Ravens Esports
+
+----
+
+Projectyear: 2020
+
+----
+
+Projectexternlink: https://www.behance.net/gallery/120744467/Asgard-Ravens
+
+----
+
+Projecttags: Creative Direction, Branding
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Projectcolor: 
+
+----
+
+Uuid: 14SwgR0WO74iC0v8

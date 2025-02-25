@@ -1,0 +1,77 @@
+Title: Projekte
+
+----
+
+Work: [{"attrs":{"class":"area-pano","grid":"","spacer":"spacer-d","padding":""},"columns":[{"blocks":[{"content":{"location":"kirby","url":"","video":["file://rtxAWHCyegH3QzwV"],"poster":[],"autoplay":"true","muted":"true","loop":"true","controls":"false","preload":"auto","class":"video-full reveal-a"},"id":"d0985b8a-ef5e-4db6-a09d-9f87f0b04853","isHidden":false,"type":"video"}],"id":"7d35dc40-5357-4b7b-b04d-591e9edd22ce","width":"1/1"}],"id":"ab19749a-8392-4b76-b20f-8b993705eb93"},{"attrs":{"class":"area-wide tile-d content-center","grid":"","spacer":"spacer-b","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Intuitives Design<br>formt Erfahrung.","class":"headline-1 reveal-a","spacer":""},"id":"2da0b3d3-567a-435f-af19-bcf997de0435","isHidden":false,"type":"heading"}],"id":"8020cd4f-e453-4dc9-be46-3b9d1046bb59","width":"1/1"}],"id":"45b42d78-4b0b-4859-a0c0-7bfd4e5743e3"},{"attrs":{"class":"area-wide tile-d content-center","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"text":"<p>Modernes Design ergibt sich nicht daraus jedes Element zu vereinfachen. Mein Fokus dabei liegt in der Entwicklung von nutzerfreundlicher Visualisierungen, um ästhetische Lösungen zu schaffen und großartige Erfahrungen zu vermitteln.</p>","class":"paragraph-1 reveal-a","spacer":""},"id":"000e3e2a-840e-4aab-b5a9-7689056fe2bd","isHidden":false,"type":"text"}],"id":"fd11bc97-edcc-4f1f-81de-d8df100be18b","width":"1/1"}],"id":"9ca36838-991c-49a7-8881-89263ba3ac25"}]
+
+----
+
+Theprocess: [{"attrs":{"class":"area-standard","grid":"","spacer":"","padding":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Vielfältige Dienstleistungen","class":"headline-3","spacer":"spacer-b"},"id":"95e11874-086e-4c36-804e-3d7a45e8e8af","isHidden":false,"type":"heading"},{"content":{"haccordionheadline":"","haccordionitems":[{"haccordionitemheadline":"Creative Direction","haccordionitemcontent":[{"itemtext":"Kommunikationskonzepte"},{"itemtext":"Cross-Media-Marketing"},{"itemtext":"Kampagnenentwicklung"},{"itemtext":"Kreative Beratung"},{"itemtext":"Positionierung im Markt & Differenzierungsstrategien"},{"itemtext":"Integrative Marken- & Content-Strategien"},{"itemtext":"Marken- & Kommunikationsleitungs-Trainings"},{"itemtext":"Workshops für Ideenfindung & Entwicklung"}]},{"haccordionitemheadline":"Branding","haccordionitemcontent":[{"itemtext":"Texterstellung & kreatives Schreiben"},{"itemtext":"Texterstellung für Markennarrative"},{"itemtext":"SEO-Contenterstellung"},{"itemtext":"Markenidentität & Design"},{"itemtext":"Grafikdesign"}]},{"haccordionitemheadline":"Marketing","haccordionitemcontent":[{"itemtext":"Social-Media-Marketing"},{"itemtext":"Community Management"},{"itemtext":"Kampagnenplanung & Koordination"},{"itemtext":"Kampagnenentwicklung für Multi-Kanäle"},{"itemtext":"Reporting & Analysen"},{"itemtext":"Analytics & KPI Reports"}]},{"haccordionitemheadline":"Webentwicklung","haccordionitemcontent":[{"itemtext":"Nutzererfahrungsanalyse & Design"},{"itemtext":"Design von Nutzeroberflächen"},{"itemtext":"Frontend Entwicklung"},{"itemtext":"Backend Entwicklung"}]},{"haccordionitemheadline":"Video & Animation","haccordionitemcontent":[{"itemtext":"Animationsdesign"},{"itemtext":"Konzeptentwicklung & Storyvorbereitung"},{"itemtext":"Videoschnitt"},{"itemtext":"Farbkorrektur"}]},{"haccordionitemheadline":"Photographie","haccordionitemcontent":[{"itemtext":"Event-Photographie"},{"itemtext":"Kampagnen-Photographie"},{"itemtext":"Marken-Photographie"},{"itemtext":"Nachbearbeitung & Retusche"}]}],"class":"","spacer":""},"id":"24cab654-b726-4e3f-82d8-a2975af05cd4","isHidden":false,"type":"area-hoveraccordion"}],"id":"1524139f-04d5-4a73-b0ea-64bbc18991c4","width":"1/1"}],"id":"5452d118-e1ff-4585-976d-113399a0d2ce"}]
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
+
+----
+
+Related: 
